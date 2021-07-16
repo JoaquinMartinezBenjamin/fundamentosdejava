@@ -1,0 +1,1001 @@
+Id,Nombre,Ape_pat,Ape_mat,Sexo,Edad,HorasTrabajadas,SueldoXHora,TipoTrabajador,DiasTrabajados,SueldoXDia,Descuentos,SueldoQuincenal,Faltas
+1,Alberto,Moreira,Garcia,H,47,30,150,TrabajadorXHoras,,,,,
+2,Maria Carmen,Roman,Rodriguez,M,64,,,TrabajadorXDias,7,140,350,,
+3,Jose Luis,Molina,Silvestre,H,51,,,TrabajadorXDias,2,160,450,,
+4,Manuel,Dominguez,Mari,H,62,82,160,TrabajadorXHoras,,,,,
+5,Ruben,Sanchez,Serra,H,56,,,TrabajadorXDias,10,60,400,,
+6,Mercedes,Rubio,Rojo,M,62,,,TrabajadorXContrato,,,350,4500,3
+7,Rosa,Gonzalez,Navarro,M,85,,,TrabajadorXContrato,,,250,2000,5
+8,Rafael,Rodriguez,Navarro,H,21,26,140,TrabajadorXHoras,,,,,
+9,Juana,Herrera,Contreras,M,70,60,170,TrabajadorXHoras,,,,,
+10,Xavier,Ortega,Espinoza,H,48,,,TrabajadorXContrato,,,150,1000,0
+11,Antonio,Martinez,Sanchez,H,84,,,TrabajadorXDias,11,140,200,,
+12,Maria Jesus,Lerma,Torres,M,31,,,TrabajadorXContrato,,,50,5000,3
+13,Teresa,alvarez,Carranza,M,51,,,TrabajadorXContrato,,,150,4000,4
+14,Manuel,Rosado,Garcia,H,33,,,TrabajadorXContrato,,,50,1500,5
+15,Carmen,Dominguez,Herrero,M,50,,,TrabajadorXDias,13,180,50,,
+16,Maria Pilar,Mera,Notario,M,25,,,TrabajadorXDias,15,80,450,,
+17,Juan,Gomez,Ortiz,H,73,,,TrabajadorXContrato,,,50,4000,0
+18,Antonio Manuel,Vargas,Gallego,H,26,,,TrabajadorXContrato,,,50,3500,0
+19,Carlos,Sanchez,Yuste,H,19,,,TrabajadorXContrato,,,200,4000,3
+20,Jose Luis,Gomez,Gil,H,51,,,TrabajadorXDias,7,120,0,,
+21,Manuela,Exposito,Prats,M,41,,,TrabajadorXDias,10,60,300,,
+22,Montserrat,Perez,Flores,M,36,,,TrabajadorXContrato,,,500,2500,5
+23,Raquel,Izquierdo,Salas,M,84,,,TrabajadorXDias,10,160,100,,
+24,Begona,Saiz,Brenes,M,66,,,TrabajadorXDias,3,140,100,,
+25,Paloma,Ferro,Gonzalez,M,65,32,150,TrabajadorXHoras,,,,,
+26,Ivan,Garrido,Sanchez,H,85,,,TrabajadorXContrato,,,150,2000,0
+27,Isabel,Garcia,alvarez,M,68,,,TrabajadorXDias,2,60,450,,
+28,Beatriz,Fernandez,Luis,M,29,0,140,TrabajadorXHoras,,,,,
+29,Raul,Vera,Figueroa,H,19,,,TrabajadorXDias,11,180,400,,
+30,Francisco,Montes,Lopez,H,75,82,200,TrabajadorXHoras,,,,,
+31,Paula,Ortiz,Garcia,M,63,,,TrabajadorXContrato,,,150,3000,0
+32,Jose,Rueda,Munoz,H,71,,,TrabajadorXContrato,,,500,2000,3
+33,Francisca,Prado,Garcia,M,40,,,TrabajadorXContrato,,,50,4000,5
+34,Pablo,Martinez,Reyes,H,43,,,TrabajadorXContrato,,,400,5000,2
+35,Maria Jesus,Marquez,Iborra,M,44,8,130,TrabajadorXHoras,,,,,
+36,Jose Maria,Cano,Fernandez,H,43,,,TrabajadorXDias,13,140,450,,
+37,Jose Luis,Garrido,Cabrera,H,21,,,TrabajadorXDias,12,100,250,,
+38,Ana Isabel,Roig,Olivera,M,38,,,TrabajadorXDias,15,160,300,,
+39,Antonio,Silva,Martinez,H,62,,,TrabajadorXContrato,,,300,3500,3
+40,Francisco,Berrocal,ubeda,H,47,,,TrabajadorXDias,14,120,50,,
+41,Montserrat,Pereda,Sanchez,M,28,,,TrabajadorXContrato,,,50,1000,4
+42,Miquel,Garcia,Sancho,H,39,,,TrabajadorXDias,8,140,300,,
+43,Manuela,Canadas,Orozco,M,38,,,TrabajadorXContrato,,,250,3000,1
+44,Sara,Moreno,Barrero,M,64,,,TrabajadorXContrato,,,250,2500,4
+45,Maria Amparo,Tamayo,Andrade,M,76,,,TrabajadorXContrato,,,500,4500,0
+46,Adrian,Benitez,Torrens,H,62,,,TrabajadorXDias,9,120,50,,
+47,Alejandro,Gonzalez,alvarez,H,27,,,TrabajadorXContrato,,,200,2000,5
+48,David,Calvet,Latorre,H,38,,,TrabajadorXDias,5,180,0,,
+49,Maria angeles,Pazos,Barrera,M,70,94,190,TrabajadorXHoras,,,,,
+50,Roberto,Cruz,Fernandez,H,74,,,TrabajadorXDias,13,60,0,,
+51,Carolina,Morcillo,Gomez,M,57,48,170,TrabajadorXHoras,,,,,
+52,Miguel angel,Calabuig,Fernandez,H,76,,,TrabajadorXContrato,,,350,1500,1
+53,Juan Francisco,Perez,Arcos,H,71,70,170,TrabajadorXHoras,,,,,
+54,Andrea,Jimenez,Rivera,M,47,0,100,TrabajadorXHoras,,,,,
+55,Julia,Cabrera,Ruiz,M,78,,,TrabajadorXContrato,,,250,3000,4
+56,angel,Conde,Moreno,H,75,28,120,TrabajadorXHoras,,,,,
+57,Maria,Blasco,Lozano,M,56,,,TrabajadorXDias,10,100,50,,
+58,Maria Carmen,Castaneda,Xu,M,21,,,TrabajadorXDias,9,60,400,,
+59,Concepcion,Hernando,Duran,M,64,,,TrabajadorXContrato,,,200,5000,5
+60,Jose Antonio,Hermoso,Fernandez,H,67,16,190,TrabajadorXHoras,,,,,
+61,Mohamed,Puche,Pages,H,77,62,110,TrabajadorXHoras,,,,,
+62,Maria,Romero,Tomas,M,51,,,TrabajadorXDias,9,60,100,,
+63,angel,Lopez,Bernal,H,37,,,TrabajadorXContrato,,,200,3500,1
+64,Francisco,Gonzalez,Valle,H,60,,,TrabajadorXDias,13,200,350,,
+65,Francisca,Sanchez,Pintado,M,25,,,TrabajadorXContrato,,,450,2500,4
+66,Jose Luis,Fernandez,Munoz,H,81,,,TrabajadorXContrato,,,100,3500,2
+67,Rosa Maria,Gomez,Juan,M,41,76,150,TrabajadorXHoras,,,,,
+68,Marta,Martin,Romero,M,19,,,TrabajadorXDias,14,140,300,,
+69,oscar,Herrera,Martin,H,52,,,TrabajadorXDias,6,60,350,,
+70,Maria Candelaria,Fuentes,Granda,M,37,,,TrabajadorXContrato,,,500,3000,1
+71,Jose Antonio,Perez,Rodriguez,H,36,,,TrabajadorXContrato,,,0,1500,1
+72,Jose Antonio,Perez,Rodriguez,H,59,,,TrabajadorXDias,11,200,150,,
+73,Francisco Javier,Pueyo,Oliver,H,21,82,100,TrabajadorXHoras,,,,,
+74,Miguel angel,Medrano,Cruz,H,45,,,TrabajadorXDias,15,100,450,,
+75,Miguel,Fidalgo,Caro,H,65,,,TrabajadorXDias,7,180,450,,
+76,Marta,Martin,Fernandez,M,72,82,200,TrabajadorXHoras,,,,,
+77,Maria,Centeno,Gomez,M,76,,,TrabajadorXContrato,,,250,2500,4
+78,Josefa,Pascual,Jimenez,M,30,,,TrabajadorXDias,9,140,450,,
+79,Silvia,Hernandez,Miguez,M,44,,,TrabajadorXContrato,,,0,4500,1
+80,Maria Rosario,Pascual,alvarez,M,70,22,180,TrabajadorXHoras,,,,,
+81,Diego,Gongora,Campo,H,66,,,TrabajadorXContrato,,,300,3500,0
+82,Francisco,De la Rosa,Piqueras,H,40,,,TrabajadorXContrato,,,200,1000,3
+83,Daniel,Nunez,Salvador,H,71,,,TrabajadorXContrato,,,450,1500,3
+84,Antonio,Bayo,Ballesteros,H,46,28,180,TrabajadorXHoras,,,,,
+85,Maria Dolores,Perez,Alcazar,M,64,,,TrabajadorXDias,13,200,350,,
+86,Rosario,Gonzalez,Villa,M,23,,,TrabajadorXDias,15,60,250,,
+87,Maria Jesus,Huertas,Moya,M,80,,,TrabajadorXContrato,,,200,1500,5
+88,Francisco,Tejedor,Mendoza,H,43,,,TrabajadorXContrato,,,250,1500,1
+89,Miguel angel,Smith,Sanchez,H,28,,,TrabajadorXContrato,,,300,2500,1
+90,Francisco,Diaz,Ramos,H,39,100,110,TrabajadorXHoras,,,,,
+91,Paula,Pariente,Ruiz,M,71,,,TrabajadorXDias,12,40,50,,
+92,Juan,Lozano,Martin,H,62,,,TrabajadorXDias,4,180,50,,
+93,Jesus,Miranda,Singh,H,78,,,TrabajadorXDias,2,180,150,,
+94,Juana,Chamizo,De la Cruz,M,39,100,160,TrabajadorXHoras,,,,,
+95,Maria Luisa,Molina,Pallares,M,70,,,TrabajadorXContrato,,,50,1000,2
+96,Francisco,Jimenez,Sanz,H,61,62,130,TrabajadorXHoras,,,,,
+97,Francisco Javier,Bejarano,Haro,H,29,90,190,TrabajadorXHoras,,,,,
+98,Juan Antonio,Martin,Giner,H,76,,,TrabajadorXContrato,,,500,3000,1
+99,Alex,Serrano,Torrico,H,79,,,TrabajadorXContrato,,,300,1000,4
+100,Carmen,Lozano,Llamas,M,57,,,TrabajadorXDias,1,60,500,,
+101,Victor,Juan,Fernandez,H,78,,,TrabajadorXDias,11,160,500,,
+102,Carmen,Rico,Martinez,M,74,,,TrabajadorXDias,10,140,250,,
+103,Francisca,Osuna,Ceballos,M,19,48,140,TrabajadorXHoras,,,,,
+104,Nuria,Fernandez,Arnaiz,M,78,,,TrabajadorXContrato,,,500,4000,2
+105,Mario,Alonso,Garcia,H,51,56,180,TrabajadorXHoras,,,,,
+106,Andrea,Delgado,Tena,M,34,90,100,TrabajadorXHoras,,,,,
+107,Rafael,Nieto,Molina,H,34,,,TrabajadorXDias,9,100,350,,
+108,Miguel angel,Nunez,Flores,H,44,,,TrabajadorXContrato,,,300,4500,2
+109,Encarnacion,Martin,Garcia,M,43,,,TrabajadorXContrato,,,450,5000,0
+110,Ivan,Garcia,Justo,H,23,24,190,TrabajadorXHoras,,,,,
+111,Francisca,Munoz,Moreno,M,51,,,TrabajadorXDias,15,160,100,,
+112,Juana,Lafuente,Torres,M,37,,,TrabajadorXContrato,,,250,1500,5
+113,Maria Concepcion,Molina,Albero,M,65,,,TrabajadorXContrato,,,350,4500,1
+114,Jose Maria,De la Cruz,Izaguirre,H,59,20,200,TrabajadorXHoras,,,,,
+115,Rosa,Perez,Santana,M,80,,,TrabajadorXContrato,,,400,2500,3
+116,Juan Jose,Gonzalez,Bueno,H,39,,,TrabajadorXContrato,,,200,4500,3
+117,Ana Maria,Tena,Andres,M,63,16,120,TrabajadorXHoras,,,,,
+118,Maria Carmen,Martinez,Ribera,M,72,,,TrabajadorXContrato,,,250,2000,1
+119,Pedro,Gras,Garrido,H,58,,,TrabajadorXDias,12,200,500,,
+120,Jose Antonio,Chinea,Fernandez,H,38,,,TrabajadorXContrato,,,350,2500,3
+121,Jordi,Benedicto,Navarro,H,55,,,TrabajadorXDias,3,200,50,,
+122,Daniel,Vila,Perea,H,56,,,TrabajadorXContrato,,,450,1000,5
+123,Jose,Parra,Villalta,H,32,,,TrabajadorXContrato,,,500,3000,2
+124,Pedro,Porcel,Vaca,H,74,,,TrabajadorXDias,9,200,350,,
+125,Maria Jose,Paniagua,Rodriguez,M,64,84,150,TrabajadorXHoras,,,,,
+126,Sandra,Andres,Santana,M,83,,,TrabajadorXDias,10,200,450,,
+127,Miguel,Garcia,Morales,H,53,44,150,TrabajadorXHoras,,,,,
+128,Ana Isabel,Piqueras,Torrecilla,M,26,,,TrabajadorXDias,14,120,500,,
+129,Pedro,Soriano,Valls,H,64,14,100,TrabajadorXHoras,,,,,
+130,Manuel,Montero,Fernandez,H,51,,,TrabajadorXDias,6,140,0,,
+131,Roberto,Rey,Ruiz,H,74,,,TrabajadorXContrato,,,350,5000,0
+132,Beatriz,Calderon,angel,M,70,40,120,TrabajadorXHoras,,,,,
+133,Juana,Garcia,Angulo,M,24,56,130,TrabajadorXHoras,,,,,
+134,Manuela,Gimenez,Haro,M,25,,,TrabajadorXDias,3,120,450,,
+135,Raquel,Ramirez,Bohorquez,M,42,82,150,TrabajadorXHoras,,,,,
+136,Manuel,Diaz,Cadenas,H,81,,,TrabajadorXDias,2,180,200,,
+137,Maria Nieves,Pina,Castro,M,62,,,TrabajadorXContrato,,,0,4500,5
+138,Juan Jose,Gonzalez,Diaz,H,20,,,TrabajadorXDias,1,200,450,,
+139,Mercedes,alvarez,Martinez,M,23,,,TrabajadorXDias,14,60,50,,
+140,Maria,Izquierdo,De la Fuente,M,27,,,TrabajadorXDias,12,200,50,,
+141,Jose Antonio,Rios,Riquelme,H,38,,,TrabajadorXContrato,,,250,2000,5
+142,Ramon,Martinez,Garcia,H,56,,,TrabajadorXContrato,,,0,1500,3
+143,Silvia,Alarcon,Torres,M,67,24,150,TrabajadorXHoras,,,,,
+144,Maite,De Lucas,Polanco,M,64,,,TrabajadorXContrato,,,250,5000,3
+145,Juan Antonio,Uceda,Bou,H,84,,,TrabajadorXContrato,,,300,1000,3
+146,Carmen,Gonzalo,Rodriguez,M,45,,,TrabajadorXContrato,,,0,3000,3
+147,Maria,Calzada,Triguero,M,45,,,TrabajadorXDias,12,120,50,,
+148,Pilar,Falcon,Lopez,M,64,,,TrabajadorXContrato,,,250,4500,5
+149,Enrique,Palacios,Hervas,H,19,62,100,TrabajadorXHoras,,,,,
+150,Lucia,Valero,Gallego,M,57,22,130,TrabajadorXHoras,,,,,
+151,Enrique,Mayo,Belmonte,H,78,,,TrabajadorXContrato,,,100,1500,4
+152,Antonia,Lazaro,Espino,M,44,,,TrabajadorXDias,14,60,300,,
+153,Catalina,Montalvo,Sarmiento,M,57,42,110,TrabajadorXHoras,,,,,
+154,Juan,Machado,Fernandez,H,43,74,170,TrabajadorXHoras,,,,,
+155,Raul,alvarez,Moreno,H,47,,,TrabajadorXContrato,,,50,4500,1
+156,Jose,Megias,De Souza,H,23,,,TrabajadorXDias,4,140,350,,
+157,Maria Jose,Alfonso,Moro,M,52,,,TrabajadorXContrato,,,150,2500,4
+158,Jose Maria,Ruiz,Espinosa,H,35,,,TrabajadorXContrato,,,350,2500,3
+159,Ana Maria,Rodriguez,Barriga,M,65,38,190,TrabajadorXHoras,,,,,
+160,Jose,Sanchis,Valbuena,H,55,28,150,TrabajadorXHoras,,,,,
+161,Victor,Popa,Perez,H,55,,,TrabajadorXDias,12,180,300,,
+162,Jordi,Carrascosa,Rodriguez,H,30,,,TrabajadorXDias,10,160,350,,
+163,Esperanza,Cordon,Del Rio,M,74,,,TrabajadorXContrato,,,400,3500,1
+164,Mohamed,Munoz,Vazquez,H,27,,,TrabajadorXContrato,,,200,2500,0
+165,Daniel,Garijo,Lorenzo,H,21,,,TrabajadorXDias,8,180,300,,
+166,Rafael,Munoz,Valls,H,23,,,TrabajadorXDias,6,140,300,,
+167,Ignacio,Flores,Domenech,H,44,,,TrabajadorXContrato,,,100,1500,2
+168,Manuela,Perez,Sanchez,M,37,,,TrabajadorXDias,8,60,400,,
+169,Jose Ignacio,Martinez,Blanco,H,85,,,TrabajadorXDias,15,180,0,,
+170,Javier,Giner,Hernandez,H,74,84,190,TrabajadorXHoras,,,,,
+171,Maria Dolores,Sacristan,Novoa,M,50,16,160,TrabajadorXHoras,,,,,
+172,Maria Luisa,Martin,Diaz,M,63,,,TrabajadorXDias,4,180,350,,
+173,Jorge,Navarro,Gutierrez,H,34,68,120,TrabajadorXHoras,,,,,
+174,Maria,Ayllon,Martinez,M,35,74,170,TrabajadorXHoras,,,,,
+175,Joaquin,Galan,Ruiz,H,35,20,150,TrabajadorXHoras,,,,,
+176,Antonio,Castejon,Dominguez,H,70,,,TrabajadorXContrato,,,450,4500,3
+177,Sergio,Domingo,Montero,H,30,60,150,TrabajadorXHoras,,,,,
+178,Miguel angel,Rodriguez,Ciudad,H,51,50,140,TrabajadorXHoras,,,,,
+179,Imanol,Alba,Santos,H,67,,,TrabajadorXContrato,,,100,4500,5
+180,Sergi,Garcia,Burgos,H,85,,,TrabajadorXDias,7,40,200,,
+181,Alfonso,Casas,Valles,H,83,,,TrabajadorXDias,2,40,450,,
+182,Antonio,Acosta,Jimenez,H,46,,,TrabajadorXDias,5,40,50,,
+183,Jaime,Perea,Rubio,H,53,,,TrabajadorXDias,10,40,0,,
+184,Laura,Ruiz,Jimenez,M,53,,,TrabajadorXContrato,,,0,1000,4
+185,Jose Antonio,Gonzalez,Caballero,H,39,,,TrabajadorXDias,15,200,350,,
+186,Laura,Claveria,Llanos,M,30,20,160,TrabajadorXHoras,,,,,
+187,Antonio,Venegas,Ramos,H,37,,,TrabajadorXContrato,,,450,4000,0
+188,Pilar,Linares,Perez,M,18,,,TrabajadorXDias,13,180,200,,
+189,Carlos,Navarro,Riba,H,31,,,TrabajadorXContrato,,,150,2000,4
+190,Maria Jose,Osuna,Dominguez,M,66,96,180,TrabajadorXHoras,,,,,
+191,Juan,Tejero,Parra,H,23,76,100,TrabajadorXHoras,,,,,
+192,Adrian,Vidal,Velez,H,33,,,TrabajadorXContrato,,,0,3500,1
+193,Maria Elena,Sanchez,Rodriguez,M,24,,,TrabajadorXDias,9,180,50,,
+194,Rafael,Lopez,Jimenez,H,20,,,TrabajadorXDias,7,140,500,,
+195,Maria angeles,Sanchez,Ruiz,M,81,,,TrabajadorXContrato,,,50,1000,5
+196,Maria Mar,Salmeron,Echevarria,M,69,,,TrabajadorXContrato,,,350,3500,0
+197,Rafael,Gonzalez,Gonzalez,H,32,,,TrabajadorXContrato,,,250,3500,3
+198,Miguel,Gallardo,Carrillo,H,18,,,TrabajadorXContrato,,,400,5000,5
+199,Miguel,Rodriguez,Sanchez,H,51,12,140,TrabajadorXHoras,,,,,
+200,Manuel,Munoz,Martos,H,48,,,TrabajadorXDias,10,140,300,,
+201,Maria Dolores,Martinez,Lopez,M,47,78,120,TrabajadorXHoras,,,,,
+202,Pablo,Pena,Gonzalez,H,79,,,TrabajadorXDias,15,40,100,,
+203,Concepcion,Carmona,Garcia,M,73,14,120,TrabajadorXHoras,,,,,
+204,Jose Manuel,Lopez,Boada,H,80,36,160,TrabajadorXHoras,,,,,
+205,Inaki,Jimenez,Andres,H,73,16,120,TrabajadorXHoras,,,,,
+206,Paula,Merino,Dominguez,M,69,,,TrabajadorXContrato,,,350,2500,2
+207,Josefa,Montero,Suarez,M,53,,,TrabajadorXDias,8,100,400,,
+208,Manuel,Pardo,Martinez,H,56,,,TrabajadorXDias,5,160,350,,
+209,Jose,Aranda,Garcia,H,48,,,TrabajadorXContrato,,,0,1000,4
+210,Rafael,Caballero,Sola,H,38,,,TrabajadorXContrato,,,100,5000,2
+211,David,Lujan,Monedero,H,80,,,TrabajadorXDias,1,180,350,,
+212,Marta,Ferro,Castano,M,20,96,140,TrabajadorXHoras,,,,,
+213,Nuria,Alfonso,Santana,M,29,84,110,TrabajadorXHoras,,,,,
+214,Juan Carlos,Rodriguez,Pinto,H,37,,,TrabajadorXContrato,,,300,4500,4
+215,Andres,Lopez,Gallego,H,33,,,TrabajadorXContrato,,,450,4000,4
+216,Ana,Marti,Montesinos,M,63,48,190,TrabajadorXHoras,,,,,
+217,Jordi,Gomez,Mena,H,45,32,110,TrabajadorXHoras,,,,,
+218,Maria Pilar,Garcia,Guerrero,M,42,,,TrabajadorXContrato,,,250,4000,0
+219,Juan,Quevedo,Conde,H,23,36,100,TrabajadorXHoras,,,,,
+220,Juan,Herrera,Marques,H,21,,,TrabajadorXDias,12,120,100,,
+221,Rosa Maria,Fernandez,Balaguer,M,39,,,TrabajadorXContrato,,,150,3500,0
+222,Jose Luis,Florez,Pareja,H,41,,,TrabajadorXContrato,,,50,3500,0
+223,David,Jimenez,Martin,H,81,,,TrabajadorXDias,9,60,500,,
+224,Maria,Garcia,Serna,M,79,,,TrabajadorXDias,8,200,50,,
+225,Antonio,Adrover,Sola,H,46,,,TrabajadorXDias,3,80,0,,
+226,Maria angeles,Garcia,Montero,M,27,76,100,TrabajadorXHoras,,,,,
+227,Manuel,Rodriguez,Leon,H,49,80,100,TrabajadorXHoras,,,,,
+228,Daniel,Merida,Barbera,H,31,34,160,TrabajadorXHoras,,,,,
+229,Jose,Llopis,Jimenez,H,77,8,150,TrabajadorXHoras,,,,,
+230,Jorge,Saldana,Sancho,H,33,,,TrabajadorXDias,5,40,200,,
+231,Maria,Lopez,Velasco,M,68,52,160,TrabajadorXHoras,,,,,
+232,Juan Carlos,Caro,Iglesias,H,79,,,TrabajadorXDias,13,120,350,,
+233,alvaro,Garcia,Magan,H,57,,,TrabajadorXDias,9,160,0,,
+234,Jose Ignacio,Soto,Gomez,H,85,80,100,TrabajadorXHoras,,,,,
+235,Lucia,Lozano,Ballesteros,M,43,84,170,TrabajadorXHoras,,,,,
+236,Jose Manuel,Arroyo,Navarro,H,46,,,TrabajadorXContrato,,,150,4500,2
+237,Maria,Lozano,Domene,M,52,,,TrabajadorXDias,7,40,250,,
+238,Isabel,Del Pozo,Martin,M,84,98,180,TrabajadorXHoras,,,,,
+239,Sergio,Rubio,Pedrosa,H,64,92,160,TrabajadorXHoras,,,,,
+240,Jesus,Suarez,Sanz,H,65,,,TrabajadorXDias,1,60,150,,
+241,Vicente,Fernandez,Cobo,H,55,,,TrabajadorXDias,10,40,350,,
+242,Julia,Gonzalez,Mendez,M,49,,,TrabajadorXDias,13,160,250,,
+243,Joaquin,Ferrer,Sampedro,H,81,76,140,TrabajadorXHoras,,,,,
+244,Lucia,Gil,Sanchez,M,58,34,190,TrabajadorXHoras,,,,,
+245,Cristina,Garcia,Romero,M,77,,,TrabajadorXDias,11,140,500,,
+246,Maria Carmen,Iglesias,Rodriguez,M,64,48,100,TrabajadorXHoras,,,,,
+247,Cristina,Nuno,Caballero,M,78,,,TrabajadorXContrato,,,250,3000,4
+248,Josefa,Marques,Quintana,M,21,,,TrabajadorXDias,6,80,50,,
+249,Maria Carmen,Mora,Iglesias,M,49,32,150,TrabajadorXHoras,,,,,
+250,Elena,Franco,Casas,M,45,,,TrabajadorXContrato,,,50,5000,1
+251,Maria Dolores,Pop,Galindo,M,61,,,TrabajadorXDias,6,100,400,,
+252,Maria Dolores,Abad,Millan,M,51,,,TrabajadorXContrato,,,400,4000,1
+253,Sergio,Garcia,Alfaro,H,57,,,TrabajadorXDias,12,140,200,,
+254,Salvador,Gil,Martinez,H,21,48,100,TrabajadorXHoras,,,,,
+255,Elena,Palomares,Leiva,M,61,24,110,TrabajadorXHoras,,,,,
+256,Francisca,Fernandez,Fernandez,M,27,8,120,TrabajadorXHoras,,,,,
+257,Carlos,Lopez,De la Cruz,H,74,,,TrabajadorXContrato,,,300,2000,1
+258,Maria Begona,Allende,Campos,M,50,,,TrabajadorXContrato,,,350,3000,3
+259,Ruben,Pintado,Ibanez,H,37,34,150,TrabajadorXHoras,,,,,
+260,Jose Antonio,Soler,Lorente,H,35,,,TrabajadorXContrato,,,350,1000,0
+261,Francisco Javier,Gomez,Ferrando,H,62,38,120,TrabajadorXHoras,,,,,
+262,Carlos,Aguilar,Velasco,H,67,,,TrabajadorXDias,7,40,50,,
+263,Rafael,Pena,Martinez,H,83,,,TrabajadorXContrato,,,200,3500,3
+264,Lucia,Esteban,Martin,M,57,36,200,TrabajadorXHoras,,,,,
+265,Jose,Leiva,Gallego,H,51,26,170,TrabajadorXHoras,,,,,
+266,Luis,Madrid,Llorens,H,73,,,TrabajadorXDias,4,200,450,,
+267,Pablo,Sanchez,Roa,H,20,,,TrabajadorXContrato,,,50,5000,3
+268,Antonio,Soto,Ochoa,H,41,,,TrabajadorXDias,11,100,450,,
+269,David,Afonso,San Jose,H,64,,,TrabajadorXContrato,,,300,1500,2
+270,Ana,Albarracin,Vila,M,38,,,TrabajadorXContrato,,,350,4500,1
+271,Manuel,Company,Lopez,H,74,,,TrabajadorXDias,8,140,500,,
+272,Francisca,Ruz,Echevarria,M,55,,,TrabajadorXContrato,,,400,4000,2
+273,Maria Dolores,Rosales,Gonzalez,M,84,,,TrabajadorXContrato,,,450,4500,2
+274,Maria angeles,Godino,Diaz,M,25,,,TrabajadorXContrato,,,250,4000,4
+275,Raul,Roca,Escamilla,H,40,,,TrabajadorXContrato,,,250,1500,0
+276,Jose Luis,Suarez,Gallego,H,73,,,TrabajadorXDias,10,80,400,,
+277,Ramon,Navarro,Vera,H,67,,,TrabajadorXDias,2,120,100,,
+278,Josefa,Pascual,Acevedo,M,18,94,180,TrabajadorXHoras,,,,,
+279,Yolanda,Allende,Pastor,M,59,,,TrabajadorXDias,8,100,400,,
+280,Jose,Huerta,Berlanga,H,29,,,TrabajadorXDias,8,180,500,,
+281,Jose,Ibanez,Diaz,H,54,,,TrabajadorXDias,10,80,0,,
+282,Francisco Javier,Garcia,Anguita,H,40,88,120,TrabajadorXHoras,,,,,
+283,Ana Maria,Rodriguez,Llorca,M,68,,,TrabajadorXDias,2,200,450,,
+284,Fernando,Lopez,Perez,H,39,,,TrabajadorXContrato,,,50,3000,5
+285,Antonio,Moran,Suarez,H,61,76,110,TrabajadorXHoras,,,,,
+286,Maria Carmen,Moreno,Jimenez,M,43,58,150,TrabajadorXHoras,,,,,
+287,Miguel angel,Rodriguez,Sanz,H,84,94,110,TrabajadorXHoras,,,,,
+288,Raquel,Lopez,Paredes,M,76,64,160,TrabajadorXHoras,,,,,
+289,Jesus,Gil,Chen,H,23,,,TrabajadorXDias,7,100,300,,
+290,Francisca,Vives,Buitrago,M,35,,,TrabajadorXDias,12,200,50,,
+291,Julia,Parrilla,Barrero,M,67,48,140,TrabajadorXHoras,,,,,
+292,Manuel,Mayorga,Casado,H,68,62,130,TrabajadorXHoras,,,,,
+293,Francisca,Martinez,Garrido,M,64,,,TrabajadorXContrato,,,300,5000,5
+294,Cristina,Lopez,Gonzalez,M,84,,,TrabajadorXDias,10,200,400,,
+295,Manuel,Alonso,Martins,H,56,94,140,TrabajadorXHoras,,,,,
+296,Maria,Mena,Rodriguez,M,76,,,TrabajadorXContrato,,,250,2000,4
+297,Luis,Murcia,Rio,H,84,,,TrabajadorXDias,12,100,350,,
+298,Laura,Jerez,Navarro,M,29,54,120,TrabajadorXHoras,,,,,
+299,Juan,Benitez,Pastor,H,35,,,TrabajadorXContrato,,,150,1500,4
+300,alvaro,Tebar,Gimenez,H,25,30,140,TrabajadorXHoras,,,,,
+301,Felix,Morales,Martin,H,76,36,150,TrabajadorXHoras,,,,,
+302,Diego,Castello,Gomez,H,39,,,TrabajadorXDias,3,40,450,,
+303,Josefa,Cubas,Guerra,M,31,,,TrabajadorXContrato,,,250,1500,2
+304,Pablo,Lopez,Manresa,H,77,,,TrabajadorXDias,6,180,400,,
+305,Francisco Javier,Fernandez,Tortosa,H,18,,,TrabajadorXContrato,,,150,1000,2
+306,Jaime,Rodriguez,Morell,H,28,,,TrabajadorXDias,11,40,150,,
+307,Dolores,Navarro,Garcia,M,22,,,TrabajadorXDias,15,60,150,,
+308,Josefa,Martin,Barrera,M,20,,,TrabajadorXContrato,,,350,4000,1
+309,Maria Carmen,Vicente,Llamas,M,51,30,110,TrabajadorXHoras,,,,,
+310,Nuria,Martinez,Fernandez,M,25,70,110,TrabajadorXHoras,,,,,
+311,Esther,Bravo,Candela,M,81,,,TrabajadorXDias,13,200,350,,
+312,Elena,Mediavilla,Dominguez,M,84,24,120,TrabajadorXHoras,,,,,
+313,Vicente,Suarez,Quintana,H,59,,,TrabajadorXContrato,,,450,2500,5
+314,Xavier,Farina,Moreno,H,24,,,TrabajadorXContrato,,,50,4500,3
+315,angel,Montesinos,Cano,H,32,68,170,TrabajadorXHoras,,,,,
+316,Miguel angel,Jimenez,Arenas,H,81,,,TrabajadorXContrato,,,400,5000,0
+317,Antonia,Ramiro,Gonzalez,M,50,60,140,TrabajadorXHoras,,,,,
+318,Maria Isabel,alvarez,Lucas,M,42,70,190,TrabajadorXHoras,,,,,
+319,Sergio,Garcia,Diaz,H,53,,,TrabajadorXContrato,,,250,4000,3
+320,David,Moreno,Gonzalez,H,29,22,170,TrabajadorXHoras,,,,,
+321,Francisco,Burgos,Gomez,H,68,,,TrabajadorXContrato,,,500,1000,3
+322,Jesus,Iglesias,Navarro,H,49,,,TrabajadorXContrato,,,400,3500,5
+323,Antonio,Torrado,Hidalgo,H,66,,,TrabajadorXDias,6,120,300,,
+324,Rafael,Leiva,Luengo,H,25,78,190,TrabajadorXHoras,,,,,
+325,Gonzalo,Martin,Lopez,H,36,6,160,TrabajadorXHoras,,,,,
+326,Francisco Javier,Garcia,Salas,H,55,58,180,TrabajadorXHoras,,,,,
+327,Montserrat,Fernandez,Tortosa,M,24,,,TrabajadorXDias,10,140,450,,
+328,Inmaculada,Quintanilla,Navarrete,M,80,,,TrabajadorXDias,13,100,400,,
+329,Cristina,Santiago,Sainz,M,76,,,TrabajadorXContrato,,,100,1000,1
+330,Jorge,Trejo,Villa,H,82,,,TrabajadorXContrato,,,350,3000,2
+331,Cristina,Ribas,Molina,M,34,14,110,TrabajadorXHoras,,,,,
+332,angel,Vidal,Rios,H,35,,,TrabajadorXContrato,,,0,3000,2
+333,Juan Jose,Carrillo,Mendoza,H,38,,,TrabajadorXDias,12,40,400,,
+334,David,Cabrera,Rodrigo,H,69,,,TrabajadorXContrato,,,0,2500,4
+335,Javier,Gallego,Perez,H,26,,,TrabajadorXDias,7,160,50,,
+336,Ana Maria,Rodriguez,Roldan,M,78,92,180,TrabajadorXHoras,,,,,
+337,Francisco,Palmero,Fernandez,H,38,34,160,TrabajadorXHoras,,,,,
+338,Juan,Anton,Gonzalez,H,50,28,200,TrabajadorXHoras,,,,,
+339,Raquel,Lopez,Rua,M,59,,,TrabajadorXDias,4,40,100,,
+340,Ana Maria,Lobo,Manjon,M,26,,,TrabajadorXContrato,,,500,1000,3
+341,Maria,Martin,Soto,M,32,,,TrabajadorXContrato,,,400,1000,2
+342,Cristina,Villar,Camacho,M,39,,,TrabajadorXDias,9,40,50,,
+343,Maria,Montiel,Santiago,M,83,,,TrabajadorXContrato,,,250,4000,0
+344,Santiago,Montes,Feijoo,H,31,,,TrabajadorXContrato,,,300,3500,4
+345,Ivan,Galvez,Cordon,H,83,,,TrabajadorXDias,11,200,200,,
+346,Jorge,Garcia,Ochoa,H,83,,,TrabajadorXContrato,,,200,1500,3
+347,Adrian,Pallares,Zambrano,H,82,,,TrabajadorXContrato,,,400,4000,3
+348,Maria,Martinez,Jimenez,M,32,100,100,TrabajadorXHoras,,,,,
+349,Francisco,Sanchez,Lopez,H,51,86,170,TrabajadorXHoras,,,,,
+350,Lucia,Prieto,Cuenca,M,20,,,TrabajadorXDias,10,60,400,,
+351,Jose,Diez,Garcia,H,64,,,TrabajadorXDias,1,100,450,,
+352,Tomas,Galan,Marti,H,78,72,200,TrabajadorXHoras,,,,,
+353,Carlos,Terron,Santamaria,H,20,80,120,TrabajadorXHoras,,,,,
+354,Carlos,Anton,Ortiz,H,84,22,170,TrabajadorXHoras,,,,,
+355,Daniel,Lorenzo,Rodriguez,H,38,48,180,TrabajadorXHoras,,,,,
+356,Maria Carmen,Pons,Cerezo,M,30,,,TrabajadorXContrato,,,50,2000,2
+357,Mercedes,Barba,Blanes,M,44,32,150,TrabajadorXHoras,,,,,
+358,Raquel,Sanchez,Ramos,M,82,,,TrabajadorXContrato,,,200,1000,5
+359,Fernando,Martinez,Gutierrez,H,48,98,160,TrabajadorXHoras,,,,,
+360,Jose Antonio,Hernandez,Andreu,H,27,54,110,TrabajadorXHoras,,,,,
+361,Alberto,Lopez,Perez,H,18,38,110,TrabajadorXHoras,,,,,
+362,Carmen,Garrido,Fernandez,M,50,28,190,TrabajadorXHoras,,,,,
+363,Maria Teresa,Nunez,Marin,M,30,,,TrabajadorXContrato,,,350,1000,0
+364,Francisco,Aguiar,Melian,H,27,50,100,TrabajadorXHoras,,,,,
+365,Juana,Rubio,Huertas,M,22,96,110,TrabajadorXHoras,,,,,
+366,Laura,Lopez,Mendez,M,62,,,TrabajadorXDias,2,120,400,,
+367,Jose Luis,Fernandez,Fajardo,H,70,40,170,TrabajadorXHoras,,,,,
+368,Raquel,Martinez,Cabrera,M,71,,,TrabajadorXDias,14,160,150,,
+369,angel,Luna,Calle,H,38,,,TrabajadorXDias,8,200,0,,
+370,Maria,Mas,Vidal,M,82,,,TrabajadorXDias,14,200,400,,
+371,Jose,Perez,Herrera,H,43,,,TrabajadorXDias,6,80,300,,
+372,Miguel angel,Sanchez,Carrasco,H,20,,,TrabajadorXContrato,,,200,4500,1
+373,Rafael,Cabrera,De Frutos,H,20,,,TrabajadorXContrato,,,350,2500,2
+374,Francisco Javier,Monje,Ferrando,H,30,,,TrabajadorXContrato,,,250,3000,0
+375,Alicia,Cabrera,Sanchez,M,51,94,110,TrabajadorXHoras,,,,,
+376,Ana Maria,Benitez,Suarez,M,58,88,150,TrabajadorXHoras,,,,,
+377,Raul,Romero,Diaz,H,54,66,160,TrabajadorXHoras,,,,,
+378,Maria,Moyano,Martinez,M,77,,,TrabajadorXDias,6,80,200,,
+379,Concepcion,Osuna,Redondo,M,59,,,TrabajadorXDias,2,60,400,,
+380,Marta,Santiago,Martinez,M,41,,,TrabajadorXContrato,,,150,4000,3
+381,Carlos,Bolanos,Iranzo,H,58,,,TrabajadorXContrato,,,350,1500,2
+382,Jaime,Caballero,Ramos,H,39,48,190,TrabajadorXHoras,,,,,
+383,Maria Candelaria,Portillo,Puertas,M,58,,,TrabajadorXDias,15,120,400,,
+384,Ana Maria,Garcia,Vazquez,M,30,2,140,TrabajadorXHoras,,,,,
+385,Yolanda,Aparicio,Marmol,M,68,,,TrabajadorXDias,2,160,450,,
+386,Juan,Gordo,Sousa,H,32,,,TrabajadorXContrato,,,150,3500,3
+387,oscar,Rodriguez,Maria,H,58,,,TrabajadorXContrato,,,300,3000,1
+388,Carmen,Jimenez,Ruiz,M,78,,,TrabajadorXDias,13,100,200,,
+389,Sara,Rodriguez,Castro,M,24,46,200,TrabajadorXHoras,,,,,
+390,angel,Zarate,Vazquez,H,18,92,200,TrabajadorXHoras,,,,,
+391,Miguel angel,Samaniego,Amado,H,65,74,190,TrabajadorXHoras,,,,,
+392,Andrea,Martinez,Torre,M,24,,,TrabajadorXDias,3,60,200,,
+393,Ramon,Delgado,Rodriguez,H,49,22,110,TrabajadorXHoras,,,,,
+394,Carmen,Casas,Gomila,M,81,,,TrabajadorXContrato,,,0,5000,0
+395,Juan,Conejo,Perez,H,79,28,120,TrabajadorXHoras,,,,,
+396,Maria Carmen,Gil,Lozano,M,42,96,190,TrabajadorXHoras,,,,,
+397,Isabel,Ramirez,Munoz,M,44,,,TrabajadorXDias,3,160,400,,
+398,Pablo,Pozo,Picazo,H,37,,,TrabajadorXContrato,,,450,1000,5
+399,Adrian,Soler,Simon,H,75,,,TrabajadorXContrato,,,400,1500,4
+400,Francisca,Fernandez,Prieto,M,60,,,TrabajadorXDias,2,200,200,,
+401,Jose Luis,Perez,Torrado,H,62,4,150,TrabajadorXHoras,,,,,
+402,Francisco Javier,Prieto,Torregrosa,H,69,92,170,TrabajadorXHoras,,,,,
+403,Antonio,Quintanilla,Freire,H,61,,,TrabajadorXContrato,,,400,1500,1
+404,Francisco,Peralta,Garcia,H,42,62,130,TrabajadorXHoras,,,,,
+405,Eduardo,Moreno,Lobo,H,37,,,TrabajadorXDias,4,40,50,,
+406,Diego,Gallardo,Vila,H,64,,,TrabajadorXDias,14,100,450,,
+407,Javier,Gonzalez,Gregori,H,75,40,200,TrabajadorXHoras,,,,,
+408,Jose Antonio,Alonso,Ramos,H,27,34,190,TrabajadorXHoras,,,,,
+409,Maria,Quintana,Rodriguez,M,40,,,TrabajadorXDias,4,160,250,,
+410,Juan Jose,Castro,Lopez,H,19,,,TrabajadorXContrato,,,350,5000,1
+411,Josefa,Redondo,Medina,M,56,70,120,TrabajadorXHoras,,,,,
+412,Alba,Gonzalez,Ramos,M,27,,,TrabajadorXContrato,,,200,4500,4
+413,Jose Francisco,Taboada,Fernandez,H,48,22,110,TrabajadorXHoras,,,,,
+414,Jose Maria,Hussain,Castillo,H,54,,,TrabajadorXDias,7,140,450,,
+415,angel,Torres,Marcos,H,68,70,170,TrabajadorXHoras,,,,,
+416,Concepcion,Ortega,Rios,M,66,,,TrabajadorXDias,5,100,100,,
+417,Ana Maria,Silva,Jimenez,M,25,100,130,TrabajadorXHoras,,,,,
+418,Carlos,Montes,Carrasco,H,67,,,TrabajadorXContrato,,,0,1500,5
+419,Antonia,Moreno,Perez,M,81,,,TrabajadorXDias,5,200,450,,
+420,Antonio,Arrebola,Valle,H,36,72,140,TrabajadorXHoras,,,,,
+421,Santiago,Martinez,Moreno,H,27,38,100,TrabajadorXHoras,,,,,
+422,Pedro,Canales,Rodriguez,H,58,,,TrabajadorXDias,12,100,100,,
+423,Manuel,Gallego,Gonzalez,H,23,78,180,TrabajadorXHoras,,,,,
+424,Jose,Roldan,Garcia,H,79,,,TrabajadorXContrato,,,0,4000,3
+425,Cristina,alvarez,Garcia,M,21,,,TrabajadorXContrato,,,0,2000,5
+426,angela,Tinoco,Martinez,M,49,,,TrabajadorXContrato,,,200,3500,0
+427,Carlos,Ruiz,Menacho,H,79,28,160,TrabajadorXHoras,,,,,
+428,Francisco,De Leon,Luque,H,42,,,TrabajadorXDias,13,60,50,,
+429,Daniel,Campos,Gallego,H,48,36,170,TrabajadorXHoras,,,,,
+430,Juana,Garcia,Alonso,M,51,,,TrabajadorXContrato,,,400,3500,2
+431,angel,Naranjo,Aguado,H,62,,,TrabajadorXContrato,,,100,2000,4
+432,Laia,Gomez,Rojas,M,27,28,160,TrabajadorXHoras,,,,,
+433,Salvador,Fernandez,Sanguino,H,65,,,TrabajadorXDias,13,200,50,,
+434,Pilar,Casado,Gonzalez,M,33,,,TrabajadorXDias,1,160,450,,
+435,Antonio,Lopez,Mendoza,H,74,,,TrabajadorXDias,9,60,300,,
+436,Juan,Bernabeu,Villar,H,76,,,TrabajadorXContrato,,,200,4000,5
+437,Daniel,Lopez,Martin,H,80,38,100,TrabajadorXHoras,,,,,
+438,Maria Dolores,Prieto,Jordan,M,26,,,TrabajadorXContrato,,,400,2500,5
+439,Jose Maria,Hernandez,Maroto,H,35,2,150,TrabajadorXHoras,,,,,
+440,Jesus Maria,Jimenez,Jara,H,28,,,TrabajadorXContrato,,,50,1500,1
+441,Ramon,Jimenez,Vicente,H,50,,,TrabajadorXContrato,,,400,3000,4
+442,Maria,Gomez,Fuster,M,81,64,110,TrabajadorXHoras,,,,,
+443,Ruben,Munoz,Carrascosa,H,62,,,TrabajadorXDias,5,120,450,,
+444,Ascension,Perez,Garcia,M,20,,,TrabajadorXDias,4,80,250,,
+445,Ricardo,Lopez,Ariza,H,37,,,TrabajadorXContrato,,,400,2000,5
+446,Maria,Guijarro,Gonzalez,M,77,26,110,TrabajadorXHoras,,,,,
+447,Joaquin,Vilches,Salazar,H,19,,,TrabajadorXDias,10,100,150,,
+448,Raquel,Gonzalo,De la Torre,M,41,,,TrabajadorXDias,4,120,0,,
+449,Pablo,Vidal,Garcia,H,26,32,120,TrabajadorXHoras,,,,,
+450,David,Gonzalez,Gonzalez,H,71,,,TrabajadorXDias,9,160,450,,
+451,Carmen,Martinez,Guirao,M,59,,,TrabajadorXDias,3,200,500,,
+452,Manuel,Villalba,Puig,H,31,22,140,TrabajadorXHoras,,,,,
+453,oscar,Lopez,Rodriguez,H,75,,,TrabajadorXContrato,,,500,2000,2
+454,angela,Arias,Gonzalez,M,35,,,TrabajadorXContrato,,,300,5000,0
+455,Manuela,Moran,Cuesta,M,37,,,TrabajadorXContrato,,,50,2500,2
+456,Josefa,Campos,Gutierrez,M,48,,,TrabajadorXDias,14,40,450,,
+457,Fernando,Rodriguez,Fernandez,H,34,,,TrabajadorXContrato,,,500,3000,1
+458,Montserrat,Bravo,Lopez,M,37,10,100,TrabajadorXHoras,,,,,
+459,Paula,Jurado,Serrano,M,29,,,TrabajadorXContrato,,,350,4500,4
+460,Juan,Gil,Ramos,H,53,,,TrabajadorXDias,13,200,250,,
+461,Raul,Camps,Perez,H,18,,,TrabajadorXDias,14,100,200,,
+462,Juan Manuel,Vidal,Santana,H,78,,,TrabajadorXContrato,,,50,3000,2
+463,Pablo,Moreno,Castillo,H,36,,,TrabajadorXDias,13,60,450,,
+464,alvaro,Garcia,Sanchez,H,27,100,200,TrabajadorXHoras,,,,,
+465,Teresa,Cano,Gonzalez,M,77,50,180,TrabajadorXHoras,,,,,
+466,Laura,Costa,Gomez,M,71,90,110,TrabajadorXHoras,,,,,
+467,Teresa,Sanchez,Gallego,M,61,,,TrabajadorXContrato,,,350,5000,3
+468,Jesus,Navarro,Moral,H,42,76,180,TrabajadorXHoras,,,,,
+469,Rosario,Pena,Santana,M,50,16,110,TrabajadorXHoras,,,,,
+470,Ivan,Saez,Pozo,H,55,,,TrabajadorXDias,13,100,100,,
+471,Maria,Sanchez,Gimenez,M,75,,,TrabajadorXDias,7,60,500,,
+472,Miguel,Ballesteros,Lopez,H,28,,,TrabajadorXDias,11,40,300,,
+473,Luis,Gomez,Soler,H,70,22,180,TrabajadorXHoras,,,,,
+474,Maria Dolores,Aparicio,Vidal,M,31,,,TrabajadorXDias,5,40,0,,
+475,Jose Luis,Benitez,Marcos,H,28,52,140,TrabajadorXHoras,,,,,
+476,Ramon,Sanchez,Valera,H,49,,,TrabajadorXContrato,,,250,3000,0
+477,Javier,Velasco,Perea,H,78,12,190,TrabajadorXHoras,,,,,
+478,Elena,Barral,Pascual,M,22,,,TrabajadorXContrato,,,50,5000,3
+479,Antonio,Trueba,Marquez,H,61,,,TrabajadorXDias,4,200,200,,
+480,Yolanda,Casanova,Rial,M,69,,,TrabajadorXDias,14,160,250,,
+481,Maria,Martin,Carvajal,M,47,76,100,TrabajadorXHoras,,,,,
+482,Pilar,Suarez,Escalona,M,33,,,TrabajadorXContrato,,,250,5000,4
+483,Patricia,Garcia,Velasco,M,78,,,TrabajadorXContrato,,,450,4000,3
+484,Maria Luisa,Gonzalez,Crespo,M,78,,,TrabajadorXDias,7,100,0,,
+485,Carolina,Casas,Fernandez,M,83,70,120,TrabajadorXHoras,,,,,
+486,Miguel,Mariscal,Li,H,47,78,140,TrabajadorXHoras,,,,,
+487,Elena,Fernandez,Calvo,M,68,,,TrabajadorXDias,3,140,50,,
+488,Patricia,Rodriguez,Martinez,M,61,,,TrabajadorXContrato,,,350,2000,1
+489,Isabel,Benavent,Alonso,M,82,,,TrabajadorXDias,7,120,450,,
+490,Javier,Escribano,Caballero,H,33,98,110,TrabajadorXHoras,,,,,
+491,Ana,Sanz,Jimenez,M,55,,,TrabajadorXDias,10,140,150,,
+492,Maria,Aguilar,Vallejo,M,63,,,TrabajadorXDias,6,80,0,,
+493,Juan,Caballero,Gonzalez,H,58,,,TrabajadorXContrato,,,400,2500,1
+494,Encarnacion,Gonzalez,Torres,M,58,46,100,TrabajadorXHoras,,,,,
+495,Josefa,Cortes,Fernandez,M,73,,,TrabajadorXDias,9,140,150,,
+496,Antonio,Perez,Climent,H,72,,,TrabajadorXContrato,,,0,3000,4
+497,Juan,Gonzalez,Rodriguez,H,36,78,160,TrabajadorXHoras,,,,,
+498,Maria Carmen,Alemany,Abreu,M,83,,,TrabajadorXDias,14,60,150,,
+499,Carmen,Guerra,Garcia,M,79,72,120,TrabajadorXHoras,,,,,
+500,Antonio,Carretero,Sanchez,H,20,12,170,TrabajadorXHoras,,,,,
+501,Sara,Risco,Fernandez,M,42,,,TrabajadorXDias,7,80,100,,
+502,Miguel,Gordillo,Guzman,H,79,,,TrabajadorXContrato,,,250,5000,5
+503,Antonio,Castro,Martin,H,54,,,TrabajadorXContrato,,,400,3500,4
+504,Pablo,Gonzalez,Ribas,H,47,72,160,TrabajadorXHoras,,,,,
+505,Sara,Calleja,Valencia,M,71,44,120,TrabajadorXHoras,,,,,
+506,Manuel,Gonzalez,Rosales,H,33,,,TrabajadorXContrato,,,350,3000,1
+507,Jose,Villar,Garcia,H,53,24,120,TrabajadorXHoras,,,,,
+508,David,Garcia,Granero,H,40,,,TrabajadorXContrato,,,150,3500,4
+509,Juan Carlos,Mulet,Grau,H,81,60,160,TrabajadorXHoras,,,,,
+510,Joaquin,Serrano,Pena,H,74,,,TrabajadorXContrato,,,100,3000,3
+511,Manuel,Carrasco,Carvajal,H,67,,,TrabajadorXDias,10,180,100,,
+512,Maria Carmen,Espinar,Gonzalez,M,58,58,170,TrabajadorXHoras,,,,,
+513,Concepcion,Lopez,Mateo,M,67,62,160,TrabajadorXHoras,,,,,
+514,Juan Jose,Guerrero,Ramos,H,56,44,120,TrabajadorXHoras,,,,,
+515,Maria,San Juan,Marti,M,20,,,TrabajadorXDias,13,100,100,,
+516,Jose Luis,Gonzalez,Garcia,H,37,,,TrabajadorXDias,3,40,450,,
+517,Xabier,Hernandez,Pena,H,78,,,TrabajadorXDias,1,200,250,,
+518,Maria Mar,Illan,Miguelez,M,74,,,TrabajadorXContrato,,,250,4500,3
+519,alvaro,Rodriguez,Perez,H,40,,,TrabajadorXContrato,,,200,1000,1
+520,Laura,Diez,Garcia,M,32,70,140,TrabajadorXHoras,,,,,
+521,Eneko,Martin,Sanchez,H,68,,,TrabajadorXContrato,,,350,3500,5
+522,Jorge,Aviles,Ruano,H,31,,,TrabajadorXDias,11,40,400,,
+523,Lucia,Mora,Rueda,M,70,,,TrabajadorXDias,12,160,350,,
+524,Jose,Torrado,Martinez,H,62,,,TrabajadorXDias,13,180,0,,
+525,Salvador,Garcia,Ibanez,H,35,84,140,TrabajadorXHoras,,,,,
+526,Francisco,Monroy,Carreras,H,34,28,190,TrabajadorXHoras,,,,,
+527,Antonio,Garcia,Perdomo,H,52,,,TrabajadorXContrato,,,450,3500,2
+528,Victor,Duenas,Gonzalez,H,37,,,TrabajadorXDias,15,140,50,,
+529,Raquel,Boix,Calvo,M,18,,,TrabajadorXDias,14,160,450,,
+530,Teresa,Torres,Sanchez,M,84,100,110,TrabajadorXHoras,,,,,
+531,Jose,Rodriguez,Alcaide,H,72,,,TrabajadorXContrato,,,350,1500,1
+532,Maria Carmen,Garcia,Duran,M,57,,,TrabajadorXDias,4,200,50,,
+533,Rosa Maria,Rubio,Olalla,M,53,10,190,TrabajadorXHoras,,,,,
+534,Francisco,Gomez,Arcos,H,49,,,TrabajadorXDias,9,100,300,,
+535,Carlos,Camacho,Sanz,H,64,22,190,TrabajadorXHoras,,,,,
+536,Raul,Macias,Jimenez,H,35,66,180,TrabajadorXHoras,,,,,
+537,Jose Manuel,Duenas,Palma,H,50,,,TrabajadorXDias,12,120,500,,
+538,Mercedes,Valverde,Laguna,M,29,,,TrabajadorXContrato,,,0,1500,3
+539,Francisco Javier,Beltran,Gonzalez,H,62,34,150,TrabajadorXHoras,,,,,
+540,Maria Teresa,Ruiz,Heredia,M,51,,,TrabajadorXDias,5,120,0,,
+541,Pedro,Monedero,Herranz,H,64,62,130,TrabajadorXHoras,,,,,
+542,Miguel angel,Gomez,Menendez,H,18,,,TrabajadorXContrato,,,50,3500,3
+543,Carmen,Hidalgo,Crespo,M,53,54,200,TrabajadorXHoras,,,,,
+544,Paula,Bravo,Galan,M,45,68,170,TrabajadorXHoras,,,,,
+545,Juan Carlos,Prieto,Camacho,H,67,8,160,TrabajadorXHoras,,,,,
+546,Carmen,Sanchez,Gonzalez,M,19,,,TrabajadorXDias,13,140,50,,
+547,Pablo,Nunez,Gutierrez,H,56,,,TrabajadorXDias,7,120,100,,
+548,Antonia,Porras,Caballero,M,76,,,TrabajadorXContrato,,,150,3500,5
+549,Jose Luis,Arregui,De Diego,H,66,,,TrabajadorXDias,4,180,0,,
+550,Jose,Hidalgo,Mas,H,70,,,TrabajadorXDias,9,140,500,,
+551,Francisco Javier,Hernandez,Figueroa,H,84,,,TrabajadorXContrato,,,400,4500,5
+552,Francisca,Lopez,Serrano,M,37,74,200,TrabajadorXHoras,,,,,
+553,Juan Carlos,Oller,Requena,H,27,70,100,TrabajadorXHoras,,,,,
+554,Antonio,Medina,Garcia,H,54,,,TrabajadorXDias,3,140,200,,
+555,Francisco,Cordero,Martinez,H,64,,,TrabajadorXDias,11,180,50,,
+556,Antonio,Navarro,Pozo,H,82,,,TrabajadorXDias,13,180,250,,
+557,Jose,Torres,Aroca,H,59,,,TrabajadorXDias,15,180,500,,
+558,Beatriz,Marin,Garcia,M,48,20,130,TrabajadorXHoras,,,,,
+559,Jose,Ortiz,Munoz,H,58,,,TrabajadorXDias,5,40,350,,
+560,Antonio,Rodriguez,Ariza,H,21,,,TrabajadorXDias,1,100,500,,
+561,Mohamed,Garcia,Serrano,H,50,20,150,TrabajadorXHoras,,,,,
+562,Anna,Martinez,Georgieva,M,45,46,200,TrabajadorXHoras,,,,,
+563,Marc,Gamez,Guirao,H,36,44,160,TrabajadorXHoras,,,,,
+564,Carmen,Lemos,Montenegro,M,56,44,160,TrabajadorXHoras,,,,,
+565,Maria Pilar,Garcia,Cano,M,44,68,120,TrabajadorXHoras,,,,,
+566,Alberto,Gonzalez,Hernandez,H,53,16,170,TrabajadorXHoras,,,,,
+567,Francisco,Martin,Casares,H,34,82,200,TrabajadorXHoras,,,,,
+568,Samuel,Rodriguez,Lago,H,62,,,TrabajadorXDias,8,140,50,,
+569,Maria,Leon,Mas,M,55,,,TrabajadorXDias,9,100,50,,
+570,Ricardo,Martinez,Jurado,H,58,,,TrabajadorXContrato,,,100,3000,1
+571,Marta,Lazaro,Munoz,M,84,,,TrabajadorXContrato,,,300,2500,1
+572,Ana,Herrero,Cordero,M,60,66,100,TrabajadorXHoras,,,,,
+573,Maria Carmen,Martinez,Yanez,M,82,52,100,TrabajadorXHoras,,,,,
+574,Antonio,Ortega,Rodriguez,H,36,,,TrabajadorXDias,7,120,50,,
+575,Mercedes,Vicens,Ferrer,M,33,,,TrabajadorXContrato,,,450,1000,4
+576,Maria,Lopez,Palau,M,52,44,170,TrabajadorXHoras,,,,,
+577,Vicente,Martinez,Castro,H,50,,,TrabajadorXDias,13,180,200,,
+578,Pedro,Gonzalez,Diez,H,46,20,100,TrabajadorXHoras,,,,,
+579,Jose Antonio,Lopez,Mula,H,69,,,TrabajadorXDias,15,100,200,,
+580,Eva Maria,Andres,Cerro,M,65,,,TrabajadorXContrato,,,350,5000,2
+581,Silvia,Martinez,Arribas,M,40,,,TrabajadorXDias,2,120,50,,
+582,Ricardo,Rubio,Gonzalez,H,39,6,170,TrabajadorXHoras,,,,,
+583,Jose,Ferrer,Delgado,H,39,8,200,TrabajadorXHoras,,,,,
+584,Rosario,Tolosa,Sanchez,M,76,,,TrabajadorXContrato,,,500,3500,5
+585,Enrique,alvarez,Salazar,H,57,,,TrabajadorXDias,15,100,250,,
+586,Jose,Conesa,Palmer,H,52,92,170,TrabajadorXHoras,,,,,
+587,Francisco,Castello,Taboada,H,82,38,150,TrabajadorXHoras,,,,,
+588,Pedro,Dominguez,Roman,H,22,,,TrabajadorXDias,11,140,50,,
+589,Jose,De la Cruz,Garcia,H,20,,,TrabajadorXContrato,,,200,4000,2
+590,Carlos,Navarro,Morales,H,80,,,TrabajadorXContrato,,,300,5000,1
+591,Rosa,Piqueras,Dominguez,M,47,,,TrabajadorXDias,11,80,200,,
+592,Jose Manuel,Mondejar,Echeverria,H,73,,,TrabajadorXContrato,,,0,2500,1
+593,Antonio,Munoz,Lago,H,32,,,TrabajadorXDias,6,100,350,,
+594,Marta,Mora,Villarroel,M,31,2,100,TrabajadorXHoras,,,,,
+595,Sara,Garcia,Santos,M,49,,,TrabajadorXDias,2,160,150,,
+596,Francisco Jose,Quiroga,Martos,H,62,,,TrabajadorXDias,13,60,250,,
+597,Maria Dolores,Gil,Villena,M,74,,,TrabajadorXDias,7,80,450,,
+598,Mohamed,Chico,Calvo,H,62,,,TrabajadorXContrato,,,200,1000,5
+599,Isabel,Rey,Hurtado,M,83,96,150,TrabajadorXHoras,,,,,
+600,Ana,Cortes,Salamanca,M,54,,,TrabajadorXDias,4,60,500,,
+601,Juan Manuel,Garcia,Medina,H,46,66,130,TrabajadorXHoras,,,,,
+602,Carmen,alvarez,Soler,M,71,,,TrabajadorXContrato,,,200,1000,4
+603,Ana Maria,Collado,Cabello,M,18,,,TrabajadorXContrato,,,350,4500,5
+604,Jose,Gomez,Amaro,H,32,,,TrabajadorXDias,5,100,300,,
+605,Pedro,Medina,Ferrer,H,85,,,TrabajadorXDias,12,200,450,,
+606,Rafaela,San Martin,Del Pino,M,65,,,TrabajadorXContrato,,,250,4500,5
+607,Victor,Delgado,Ramirez,H,68,78,180,TrabajadorXHoras,,,,,
+608,Alberto,Moreno,Ortiz,H,19,28,100,TrabajadorXHoras,,,,,
+609,Alberto,Rodriguez,Munoz,H,22,88,160,TrabajadorXHoras,,,,,
+610,Juan Antonio,Gutierrez,Garcia,H,26,,,TrabajadorXContrato,,,400,2000,5
+611,Juan,Romero,Fernandez,H,70,,,TrabajadorXContrato,,,350,2500,5
+612,Andrea,Galvan,Poveda,M,21,,,TrabajadorXContrato,,,0,4500,3
+613,Josep,Gonzalez,Sanz,H,41,8,150,TrabajadorXHoras,,,,,
+614,Javier,Contreras,Torres,H,18,56,150,TrabajadorXHoras,,,,,
+615,Fernando,Ramos,Serrano,H,41,100,150,TrabajadorXHoras,,,,,
+616,Jordi,Ramirez,Ballester,H,79,46,180,TrabajadorXHoras,,,,,
+617,Jose Antonio,Jimenez,Cabezas,H,43,,,TrabajadorXDias,15,200,150,,
+618,Manuel,Fernandez,Navarro,H,24,,,TrabajadorXDias,7,160,50,,
+619,Joaquin,Cervera,Gazquez,H,55,90,170,TrabajadorXHoras,,,,,
+620,Juan Antonio,Diaz,Rodriguez,H,59,,,TrabajadorXDias,13,160,450,,
+621,Josep,Camps,Munoz,H,50,,,TrabajadorXContrato,,,150,1500,3
+622,Ruben,Perez,Roque,H,36,96,150,TrabajadorXHoras,,,,,
+623,Rafael,Jimenez,Pena,H,84,64,100,TrabajadorXHoras,,,,,
+624,Antonio,Lopez,Perez,H,42,,,TrabajadorXDias,14,120,150,,
+625,Francisco Javier,Cuadrado,Rodriguez,H,33,64,110,TrabajadorXHoras,,,,,
+626,Pablo,Artola,Gonzalez,H,76,,,TrabajadorXDias,11,80,150,,
+627,Jesus,Martinez,Balde,H,35,,,TrabajadorXDias,4,80,200,,
+628,Ignacio,Villarejo,Jimenez,H,27,,,TrabajadorXDias,5,200,450,,
+629,Albert,Calvo,Martinez,H,67,,,TrabajadorXContrato,,,400,3000,4
+630,Julian,Lage,Jimenez,H,37,,,TrabajadorXDias,15,160,300,,
+631,Xavier,Laguna,Pena,H,56,88,200,TrabajadorXHoras,,,,,
+632,Eduardo,Ruiz,Barranco,H,55,,,TrabajadorXDias,5,120,500,,
+633,Begona,Jaramillo,Ballesta,M,36,20,100,TrabajadorXHoras,,,,,
+634,Rosario,Heras,Velasco,M,19,,,TrabajadorXContrato,,,150,1500,3
+635,Jose Maria,Teixeira,avila,H,68,,,TrabajadorXDias,3,60,200,,
+636,Maria Carmen,Fernandez,Navarro,M,74,,,TrabajadorXDias,7,40,200,,
+637,Cristina,De la Cruz,Alonso,M,73,96,100,TrabajadorXHoras,,,,,
+638,Maria Dolores,Santiago,Godoy,M,40,,,TrabajadorXDias,12,160,400,,
+639,Maria Pino,Narvaez,Monzon,M,27,,,TrabajadorXDias,1,160,500,,
+640,Juan,Gomez,Padron,H,24,,,TrabajadorXDias,7,40,250,,
+641,Miguel angel,Oliver,Barbero,H,53,,,TrabajadorXContrato,,,450,4500,4
+642,Maria,Ruz,Albarran,M,39,,,TrabajadorXDias,10,60,200,,
+643,Concepcion,Gallego,Serrano,M,76,,,TrabajadorXContrato,,,400,4000,1
+644,Miguel angel,Garcia,Del Valle,H,32,,,TrabajadorXDias,14,200,200,,
+645,Jose Luis,Barroso,Rueda,H,36,14,150,TrabajadorXHoras,,,,,
+646,Maria Carmen,Martinez,Suarez,M,56,,,TrabajadorXContrato,,,400,4500,0
+647,Laura,Cubero,Ballesteros,M,63,,,TrabajadorXDias,15,100,300,,
+648,Lucia,Arroyo,Mas,M,46,,,TrabajadorXDias,10,180,0,,
+649,Jose,Camarero,Jimenez,H,62,,,TrabajadorXDias,15,120,150,,
+650,Patricia,Soto,Marco,M,27,,,TrabajadorXContrato,,,450,2000,4
+651,Jose,Segura,Esteban,H,76,20,120,TrabajadorXHoras,,,,,
+652,Maria,Perez,Izquierdo,M,35,92,110,TrabajadorXHoras,,,,,
+653,Ramon,Mateo,Zabala,H,57,,,TrabajadorXContrato,,,0,4000,0
+654,Daniel,Gomez,Gomez,H,35,100,120,TrabajadorXHoras,,,,,
+655,Jose Antonio,Torres,Izquierdo,H,54,56,120,TrabajadorXHoras,,,,,
+656,Mikel,Hernandez,Segura,H,82,,,TrabajadorXContrato,,,200,3500,0
+657,Maria Jose,Gaya,Puebla,M,52,,,TrabajadorXDias,9,60,250,,
+658,Jose Maria,Luengo,Leon,H,57,,,TrabajadorXContrato,,,500,1500,1
+659,Josefa,Echeverria,Tejera,M,25,,,TrabajadorXDias,6,200,150,,
+660,Rosario,Santana,Millan,M,34,,,TrabajadorXDias,8,180,500,,
+661,Marina,Grau,Rodriguez,M,83,48,130,TrabajadorXHoras,,,,,
+662,Francisco,Hernando,Perez,H,75,,,TrabajadorXDias,3,40,500,,
+663,Jose Antonio,Dominguez,Rivera,H,24,,,TrabajadorXDias,12,160,50,,
+664,Luis,Gil,Fernandez,H,64,,,TrabajadorXContrato,,,150,2500,3
+665,Maria Jesus,Perez,Garrido,M,45,,,TrabajadorXContrato,,,200,2000,5
+666,Manuel,Rodriguez,Donaire,H,24,,,TrabajadorXDias,11,80,150,,
+667,Rafael,Perez,Lopez,H,42,,,TrabajadorXContrato,,,450,4500,3
+668,Salvador,De Souza,Arranz,H,41,,,TrabajadorXDias,1,100,0,,
+669,Miguel,Gutierrez,Rodenas,H,72,92,170,TrabajadorXHoras,,,,,
+670,Dolores,Prieto,Fernandez,M,20,,,TrabajadorXDias,15,40,250,,
+671,Francisco Javier,Coloma,Marcos,H,42,,,TrabajadorXContrato,,,250,4000,3
+672,Jose Luis,Gonzalez,Fuentes,H,52,62,190,TrabajadorXHoras,,,,,
+673,Sergi,Lozano,Oliver,H,59,44,180,TrabajadorXHoras,,,,,
+674,Raquel,Rodriguez,Sola,M,83,,,TrabajadorXContrato,,,150,2000,4
+675,Maria Jesus,Guirao,Cuesta,M,34,32,100,TrabajadorXHoras,,,,,
+676,Marina,Linares,Cuervo,M,28,,,TrabajadorXContrato,,,300,1500,4
+677,Laura,Pla,Marin,M,76,,,TrabajadorXContrato,,,300,2500,1
+678,Fernando,Popescu,Martin,H,60,,,TrabajadorXContrato,,,50,4500,5
+679,Rosario,Delgado,Sanchez,M,28,,,TrabajadorXContrato,,,350,4000,0
+680,Cristina,Moral,Ballesteros,M,38,,,TrabajadorXContrato,,,400,4000,0
+681,Maria,Singh,Jorge,M,75,94,170,TrabajadorXHoras,,,,,
+682,Emilio,Martin,De la Cruz,H,77,,,TrabajadorXDias,12,80,350,,
+683,Daniel,Mateo,Jimenez,H,19,28,130,TrabajadorXHoras,,,,,
+684,Rocio,Sedano,Hernandez,M,35,,,TrabajadorXContrato,,,50,2000,0
+685,Juan Antonio,Mozo,Fernandez,H,36,,,TrabajadorXContrato,,,450,2000,3
+686,Maria,Antelo,Sedano,M,19,58,120,TrabajadorXHoras,,,,,
+687,Antonio,Lamas,Del Olmo,H,85,,,TrabajadorXContrato,,,350,4500,1
+688,Alejandro,Jimenez,Espinar,H,79,84,200,TrabajadorXHoras,,,,,
+689,Paula,Hernandez,Arenas,M,49,,,TrabajadorXDias,1,80,150,,
+690,Juan,Martinez,Domingo,H,78,16,180,TrabajadorXHoras,,,,,
+691,Joan,Villar,Ortiz,H,52,,,TrabajadorXContrato,,,350,4000,1
+692,Maria Carmen,Rovira,Molina,M,43,8,180,TrabajadorXHoras,,,,,
+693,Ana Maria,Novo,Verdejo,M,21,88,110,TrabajadorXHoras,,,,,
+694,Juan Antonio,Sendra,Martinez,H,72,,,TrabajadorXDias,3,40,50,,
+695,Vicente,Gonzalez,De las Heras,H,50,,,TrabajadorXDias,3,80,300,,
+696,Pilar,Romero,Rodriguez,M,64,40,120,TrabajadorXHoras,,,,,
+697,Jose,Ribas,Benitez,H,82,,,TrabajadorXContrato,,,100,4500,5
+698,Jose,Perez,Hernandez,H,64,12,110,TrabajadorXHoras,,,,,
+699,Miguel,Hernandez,Jimenez,H,75,,,TrabajadorXContrato,,,50,3000,3
+700,Antonio,Sierra,alvarez,H,39,,,TrabajadorXContrato,,,500,4000,3
+701,Laura,Serra,Barrios,M,67,,,TrabajadorXContrato,,,250,2500,4
+702,Andres,Llinares,Velasco,H,58,20,190,TrabajadorXHoras,,,,,
+703,Cristina,Martinez,Garcia,M,82,94,130,TrabajadorXHoras,,,,,
+704,Enrique,Velez,Garcia,H,37,,,TrabajadorXContrato,,,450,1000,3
+705,Francisco,Muniz,Gonzalez,H,82,,,TrabajadorXDias,6,160,300,,
+706,Jose Manuel,Martinez,Bellido,H,50,,,TrabajadorXContrato,,,400,2000,5
+707,Maria,Lopez,Contreras,M,76,,,TrabajadorXDias,10,160,150,,
+708,Concepcion,Calle,Perez,M,21,76,190,TrabajadorXHoras,,,,,
+709,oscar,Aguirre,Vilarino,H,43,,,TrabajadorXContrato,,,0,1000,0
+710,Francisca,Pascual,Vicens,M,47,,,TrabajadorXDias,4,160,250,,
+711,Jose,Gomez,Villanueva,H,75,,,TrabajadorXContrato,,,450,4000,0
+712,Vicente,Abellan,Campos,H,72,,,TrabajadorXContrato,,,400,3000,1
+713,Manuel,Marin,Alonso,H,43,,,TrabajadorXContrato,,,450,2500,1
+714,Rafael,Gelabert,Ventura,H,38,,,TrabajadorXContrato,,,0,2000,4
+715,Francisco Jose,Alonso,Gomez,H,61,84,180,TrabajadorXHoras,,,,,
+716,Antonio,Leon,Sanchez,H,59,,,TrabajadorXContrato,,,100,2000,2
+717,Carmen,Mateos,Estrada,M,31,,,TrabajadorXDias,13,100,450,,
+718,Jose Antonio,Castaneda,Sanchez,H,46,90,120,TrabajadorXHoras,,,,,
+719,Roberto,Perea,Romero,H,73,18,200,TrabajadorXHoras,,,,,
+720,angel,Martinez,Moral,H,44,,,TrabajadorXContrato,,,50,4500,4
+721,Ivan,Guillen,Blazquez,H,54,,,TrabajadorXDias,11,40,350,,
+722,Patricia,Delgado,Munoz,M,43,86,130,TrabajadorXHoras,,,,,
+723,Jose,alvarez,Moreno,H,81,22,120,TrabajadorXHoras,,,,,
+724,Ana,Moya,Perez,M,60,,,TrabajadorXDias,13,180,350,,
+725,Jose Maria,Benitez,Tapia,H,80,,,TrabajadorXDias,13,120,150,,
+726,Sandra,Rios,Hidalgo,M,78,42,100,TrabajadorXHoras,,,,,
+727,Rafael,Molina,Lara,H,35,6,100,TrabajadorXHoras,,,,,
+728,Maria Carmen,Bautista,Pradas,M,85,44,180,TrabajadorXHoras,,,,,
+729,Miguel,Vera,Aparicio,H,68,54,190,TrabajadorXHoras,,,,,
+730,Antonio,Canales,Martin,H,47,,,TrabajadorXContrato,,,400,5000,0
+731,Jose,Aleman,Fernandez,H,31,,,TrabajadorXDias,4,40,500,,
+732,Francisco Javier,Prieto,Ruiz,H,58,38,200,TrabajadorXHoras,,,,,
+733,Vicenta,Martinez,Freire,M,55,,,TrabajadorXDias,13,120,150,,
+734,Antonio,Garcia,Gonzalez,H,30,36,110,TrabajadorXHoras,,,,,
+735,Miguel,Plaza,Manrique,H,20,72,190,TrabajadorXHoras,,,,,
+736,Teresa,Gonzalez,Rodriguez,M,27,36,180,TrabajadorXHoras,,,,,
+737,Antonio,Lopez,Moreno,H,79,,,TrabajadorXContrato,,,400,5000,5
+738,David,Flores,Uriarte,H,57,26,160,TrabajadorXHoras,,,,,
+739,Silvia,De Oliveira,Diaz,M,67,,,TrabajadorXContrato,,,400,1000,5
+740,Beatriz,Espana,Moreno,M,33,,,TrabajadorXContrato,,,500,2500,4
+741,Ana Maria,Guerrero,Vigo,M,32,,,TrabajadorXDias,13,200,100,,
+742,alvaro,Teixido,Rodriguez,H,62,4,170,TrabajadorXHoras,,,,,
+743,Manuel,Garcia,Santiago,H,56,,,TrabajadorXDias,4,160,450,,
+744,Concepcion,Ferrer,Maqueda,M,57,,,TrabajadorXContrato,,,100,5000,5
+745,Concepcion,Yang,Crespo,M,39,,,TrabajadorXDias,7,60,500,,
+746,Jose Antonio,Marquina,Marti,H,59,,,TrabajadorXContrato,,,200,2000,3
+747,Miguel,Ortiz,Fernandez,H,35,,,TrabajadorXDias,10,200,300,,
+748,Maria,Bayo,Bravo,M,43,50,170,TrabajadorXHoras,,,,,
+749,David,Villegas,Granero,H,85,,,TrabajadorXContrato,,,500,4000,1
+750,Jose Maria,Martel,Cao,H,69,32,180,TrabajadorXHoras,,,,,
+751,Antonio,De la Cruz,Fernandez,H,38,,,TrabajadorXDias,12,160,400,,
+752,Concepcion,Gutierrez,Triguero,M,45,,,TrabajadorXDias,15,100,100,,
+753,Maria Teresa,Lorenzo,Escamilla,M,46,66,170,TrabajadorXHoras,,,,,
+754,Isabel,Serrano,Diaz,M,73,,,TrabajadorXDias,11,140,500,,
+755,Carlos,Sanchez,Vera,H,49,,,TrabajadorXDias,11,100,250,,
+756,Manuel,Garcia,Teran,H,21,,,TrabajadorXDias,1,140,450,,
+757,Maria Pilar,Sanchez,Casado,M,44,,,TrabajadorXContrato,,,200,4000,5
+758,Paula,Martinez,Sainz,M,73,,,TrabajadorXContrato,,,0,5000,3
+759,Maria Carmen,Padilla,Alcalde,M,73,50,140,TrabajadorXHoras,,,,,
+760,Lucia,Teijeiro,Rodriguez,M,32,,,TrabajadorXDias,7,60,100,,
+761,Laura,Munoz,Quevedo,M,42,12,140,TrabajadorXHoras,,,,,
+762,Antonio,Garcia,Portela,H,66,,,TrabajadorXContrato,,,300,3000,5
+763,Alberto,Cano,Sanz,H,72,40,150,TrabajadorXHoras,,,,,
+764,Ivan,Gutierrez,Gil,H,64,,,TrabajadorXContrato,,,250,1500,4
+765,Antonio,Fernandez,Jauregui,H,31,,,TrabajadorXDias,15,60,150,,
+766,Manuel,Luna,Carreno,H,41,,,TrabajadorXContrato,,,150,3000,4
+767,Sergio,March,Diaz,H,71,76,110,TrabajadorXHoras,,,,,
+768,Luis,Ali,Valiente,H,67,,,TrabajadorXDias,14,140,0,,
+769,Carles,Vargas,Gomez,H,70,,,TrabajadorXContrato,,,150,4500,2
+770,oscar,Martinez,Arcos,H,20,100,110,TrabajadorXHoras,,,,,
+771,Pedro,Montesdeoca,Mateos,H,43,64,160,TrabajadorXHoras,,,,,
+772,Alberto,Mendez,Alvarado,H,53,90,110,TrabajadorXHoras,,,,,
+773,Maria Mar,Ramirez,Rodriguez,M,55,80,190,TrabajadorXHoras,,,,,
+774,Marta,Ramos,Mesas,M,71,26,150,TrabajadorXHoras,,,,,
+775,Maria,Ruiz,Valentin,M,43,56,190,TrabajadorXHoras,,,,,
+776,Francisco Javier,Campos,Guerrero,H,42,,,TrabajadorXContrato,,,300,1000,1
+777,Susana,Oliva,Martinez,M,73,56,120,TrabajadorXHoras,,,,,
+778,Josefa,Gonzalez,Gomez,M,68,0,140,TrabajadorXHoras,,,,,
+779,Maria Carmen,Lopez,Gomez,M,57,20,150,TrabajadorXHoras,,,,,
+780,Petra,Guerra,Del Pozo,M,41,14,100,TrabajadorXHoras,,,,,
+781,Jesus,Garcia,Vico,H,80,,,TrabajadorXContrato,,,0,5000,4
+782,Fernando,Vega,Garcia,H,45,,,TrabajadorXDias,14,160,300,,
+783,Joaquin,alvarez,Estruch,H,41,,,TrabajadorXContrato,,,50,4500,1
+784,Maria Isabel,Galera,Moreno,M,64,,,TrabajadorXContrato,,,250,5000,3
+785,Alex,Romero,Sanchez,H,51,,,TrabajadorXContrato,,,250,4000,5
+786,Jose,Cabrera,Moreira,H,40,,,TrabajadorXDias,5,140,400,,
+787,Francisco Javier,Gomez,Garcia,H,58,60,180,TrabajadorXHoras,,,,,
+788,Marina,Pacheco,Plaza,M,56,,,TrabajadorXContrato,,,400,4000,2
+789,Maria Carmen,Ramos,Ruiz,M,19,,,TrabajadorXContrato,,,300,4500,1
+790,Isabel,Arenas,Santos,M,47,46,100,TrabajadorXHoras,,,,,
+791,Marc,Fernandez,Devesa,H,81,,,TrabajadorXContrato,,,250,4000,5
+792,Maria Josefa,Artigas,Serrano,M,28,,,TrabajadorXDias,8,140,50,,
+793,Monica,Garrido,Casas,M,44,66,120,TrabajadorXHoras,,,,,
+794,Pedro,Zarate,Nieto,H,55,86,200,TrabajadorXHoras,,,,,
+795,Fernando,Garcia,Almeida,H,30,34,180,TrabajadorXHoras,,,,,
+796,Jose Luis,De la Fuente,Ruano,H,73,,,TrabajadorXDias,4,60,200,,
+797,angel,Vicens,Vazquez,H,61,84,170,TrabajadorXHoras,,,,,
+798,Antonio,Belenguer,Gil,H,60,60,200,TrabajadorXHoras,,,,,
+799,Ana Maria,Lara,Fernandez,M,82,2,110,TrabajadorXHoras,,,,,
+800,Susana,Torres,Toribio,M,43,,,TrabajadorXContrato,,,300,4500,1
+801,Mario,Garcia,Morales,H,30,30,120,TrabajadorXHoras,,,,,
+802,David,Sevilla,Marquez,H,22,72,200,TrabajadorXHoras,,,,,
+803,Juan,Martin,Moya,H,19,32,100,TrabajadorXHoras,,,,,
+804,Jose Manuel,Granda,alvarez,H,31,78,150,TrabajadorXHoras,,,,,
+805,Jesus,Rodriguez,Soares,H,49,,,TrabajadorXContrato,,,300,2500,3
+806,Jose Luis,Yepes,Fernandez,H,27,,,TrabajadorXContrato,,,250,3000,3
+807,Sara,Romeo,Guzman,M,79,22,150,TrabajadorXHoras,,,,,
+808,Anna,Molina,Martin,M,82,,,TrabajadorXDias,14,160,50,,
+809,Ana,Gonzalez,Fernandez,M,70,2,140,TrabajadorXHoras,,,,,
+810,Raquel,Fandino,Gallego,M,82,,,TrabajadorXDias,14,160,250,,
+811,Jordi,Sanchez,Santana,H,40,,,TrabajadorXContrato,,,350,2000,1
+812,Daniel,Cabrera,Garcia,H,67,64,100,TrabajadorXHoras,,,,,
+813,Pedro,Navarro,Iglesias,H,37,,,TrabajadorXContrato,,,200,3500,1
+814,Maria Carmen,Fernandez,Pons,M,70,,,TrabajadorXContrato,,,100,2500,4
+815,Marta,alvarez,Losada,M,62,42,140,TrabajadorXHoras,,,,,
+816,Vicenta,Gutierrez,Robles,M,18,,,TrabajadorXDias,4,200,400,,
+817,Jesus,Ochoa,Alcazar,H,42,,,TrabajadorXContrato,,,400,4500,0
+818,Juan Jose,Saiz,Diaz,H,51,34,200,TrabajadorXHoras,,,,,
+819,Daniel,alvarez,Garcia,H,52,,,TrabajadorXContrato,,,250,5000,0
+820,Eduardo,Diaz,Lopez,H,25,,,TrabajadorXContrato,,,200,4000,2
+821,Antonia,Rodriguez,Lopez,M,81,,,TrabajadorXDias,9,120,200,,
+822,Albert,Arroyo,Redondo,H,30,86,110,TrabajadorXHoras,,,,,
+823,Jaime,Garcia,Duenas,H,62,24,140,TrabajadorXHoras,,,,,
+824,Paula,Garcia,Melo,M,28,,,TrabajadorXDias,11,200,350,,
+825,Ane,Ruiz,Bernal,M,59,,,TrabajadorXContrato,,,100,4500,3
+826,Pedro,Garcia,Chen,H,23,42,150,TrabajadorXHoras,,,,,
+827,Juan Manuel,Orti,Gonzalez,H,18,,,TrabajadorXContrato,,,350,3500,3
+828,Milagros,Acosta,Garcia,M,27,,,TrabajadorXDias,1,60,200,,
+829,Anna,Herrera,Sevilla,M,47,60,160,TrabajadorXHoras,,,,,
+830,Maria Carmen,Gonzalez,Mihai,M,83,,,TrabajadorXContrato,,,400,1000,0
+831,Jose Manuel,Garcia,Perez,H,45,,,TrabajadorXContrato,,,0,5000,2
+832,Elena,Barbero,Sanchez,M,41,,,TrabajadorXContrato,,,400,1500,4
+833,Antonio,Mateos,Soto,H,67,,,TrabajadorXDias,5,120,100,,
+834,Francisco,Morales,Cuesta,H,78,,,TrabajadorXContrato,,,350,3500,1
+835,Daniel,Martos,Pico,H,33,4,160,TrabajadorXHoras,,,,,
+836,Luis,Garcia,Ciudad,H,64,,,TrabajadorXContrato,,,100,3000,0
+837,Jose Antonio,Lopez,Navarro,H,28,,,TrabajadorXContrato,,,50,1500,2
+838,Maria Teresa,Naranjo,Pavon,M,77,,,TrabajadorXContrato,,,350,3000,5
+839,Isabel,Melian,Palacios,M,40,,,TrabajadorXContrato,,,0,3000,1
+840,Jose,Garcia,Rodriguez,H,50,,,TrabajadorXContrato,,,350,1000,0
+841,Maria Isabel,Fabra,Garcia,M,38,,,TrabajadorXContrato,,,400,2500,4
+842,Maria,Villar,Garrido,M,31,,,TrabajadorXDias,9,180,0,,
+843,Nuria,Salvador,Lorenzo,M,23,,,TrabajadorXContrato,,,100,5000,4
+844,Miguel,Dominguez,Puche,H,23,,,TrabajadorXContrato,,,50,3500,5
+845,Laura,Perez,Folch,M,31,12,150,TrabajadorXHoras,,,,,
+846,Ramon,Lopez,Roldan,H,29,,,TrabajadorXContrato,,,450,3500,3
+847,Maria Teresa,Moya,Rivera,M,48,,,TrabajadorXDias,15,160,300,,
+848,Patricia,Gomez,Gonzalez,M,55,,,TrabajadorXDias,12,120,0,,
+849,Antonio,Dominguez,Muniz,H,30,,,TrabajadorXDias,11,60,200,,
+850,Alba,Fernandez,Guirao,M,37,26,110,TrabajadorXHoras,,,,,
+851,Luis,Yagüe,Munoz,H,79,22,180,TrabajadorXHoras,,,,,
+852,Laura,Guzman,Vega,M,71,,,TrabajadorXContrato,,,150,3000,0
+853,Miguel angel,Navas,Aguilar,H,41,,,TrabajadorXContrato,,,50,4000,2
+854,Rosa Maria,Ferrer,Bravo,M,44,32,110,TrabajadorXHoras,,,,,
+855,Maria Pilar,Montes,Jurado,M,49,,,TrabajadorXContrato,,,300,2500,5
+856,Raquel,Gomez,Torres,M,45,,,TrabajadorXContrato,,,50,3000,4
+857,Jorge,Paz,Redondo,H,20,,,TrabajadorXDias,15,140,300,,
+858,Francisco,Saez,alvarez,H,46,,,TrabajadorXContrato,,,300,1000,3
+859,Miguel angel,Ramirez,Vazquez,H,46,56,140,TrabajadorXHoras,,,,,
+860,David,Rodriguez,Fernandez,H,22,96,150,TrabajadorXHoras,,,,,
+861,Lucia,Flores,Cespedes,M,18,,,TrabajadorXContrato,,,450,3500,3
+862,Jose,Peinado,Estevez,H,31,,,TrabajadorXDias,3,100,100,,
+863,Jose Luis,Ramos,Martin,H,56,,,TrabajadorXDias,4,40,450,,
+864,alvaro,Rovira,Garcia,H,29,98,130,TrabajadorXHoras,,,,,
+865,Ricardo,Aroca,Amador,H,71,,,TrabajadorXDias,2,180,450,,
+866,Sebastian,Casals,Cano,H,71,,,TrabajadorXDias,2,60,200,,
+867,Raquel,Carrion,Pareja,M,25,,,TrabajadorXContrato,,,0,3000,0
+868,Sonia,Diaz,Nieto,M,63,46,200,TrabajadorXHoras,,,,,
+869,Isabel,Izquierdo,Saez,M,19,,,TrabajadorXDias,11,60,100,,
+870,oscar,Sala,Rial,H,25,88,180,TrabajadorXHoras,,,,,
+871,Carmen,Gonzalez,Torres,M,28,22,150,TrabajadorXHoras,,,,,
+872,Manuela,Gonzalez,Martinez,M,54,,,TrabajadorXContrato,,,0,3000,1
+873,Manuel,Vicens,Flores,H,31,80,110,TrabajadorXHoras,,,,,
+874,Maria Luisa,Menendez,Gimenez,M,60,10,130,TrabajadorXHoras,,,,,
+875,Jose,Perez,Ferrer,H,76,,,TrabajadorXDias,11,120,250,,
+876,Manuel Jesus,Rodriguez,Blazquez,H,21,,,TrabajadorXContrato,,,50,1500,0
+877,Sara,Navas,Perez,M,78,86,160,TrabajadorXHoras,,,,,
+878,Maria Dolores,Pons,Lopez,M,84,28,150,TrabajadorXHoras,,,,,
+879,Maria Carmen,Jara,Martin,M,73,92,130,TrabajadorXHoras,,,,,
+880,Cristobal,Ortega,Fernandez,H,74,,,TrabajadorXContrato,,,200,2500,4
+881,Juan Antonio,Gomez,Melero,H,33,,,TrabajadorXContrato,,,300,5000,3
+882,Maria,Benitez,Cardenas,M,82,,,TrabajadorXDias,4,180,400,,
+883,Daniel,Rey,Martin,H,19,,,TrabajadorXDias,9,160,0,,
+884,Maria Begona,Vasco,Odriozola,M,40,,,TrabajadorXDias,7,140,100,,
+885,David,Garcia,Morante,H,36,,,TrabajadorXContrato,,,300,3500,2
+886,Laura,Garcia,Marin,M,54,,,TrabajadorXContrato,,,50,5000,2
+887,Sergio,Diop,Martinez,H,28,34,150,TrabajadorXHoras,,,,,
+888,Joan,Huertas,Cortes,H,59,,,TrabajadorXDias,8,100,300,,
+889,Maria Rosa,Lopez,Contreras,M,32,,,TrabajadorXContrato,,,400,4500,5
+890,Concepcion,Sanchez,Belda,M,40,,,TrabajadorXContrato,,,100,3000,4
+891,Manuel,Herranz,Martinez,H,71,,,TrabajadorXContrato,,,200,1000,2
+892,Maria Rosario,Martinez,Roque,M,47,28,160,TrabajadorXHoras,,,,,
+893,Antonio,Benet,Garcia,H,31,,,TrabajadorXContrato,,,300,2500,0
+894,Andres,Garcia,Sanchez,H,62,,,TrabajadorXDias,15,160,350,,
+895,Salvador,Izquierdo,Bejarano,H,25,,,TrabajadorXDias,4,40,300,,
+896,Alejandro,Martin,Dimitrov,H,85,64,120,TrabajadorXHoras,,,,,
+897,Carmen,Torres,Castro,M,35,,,TrabajadorXDias,6,160,150,,
+898,Irene,Vazquez,Garcia,M,40,18,110,TrabajadorXHoras,,,,,
+899,Maria Rosario,Dominguez,De la Cruz,M,50,56,180,TrabajadorXHoras,,,,,
+900,Cristina,Ribera,Olmos,M,67,4,140,TrabajadorXHoras,,,,,
+901,Enrique,Martin,Belmonte,H,39,96,150,TrabajadorXHoras,,,,,
+902,Jose,Huguet,Perez,H,83,8,200,TrabajadorXHoras,,,,,
+903,Jose,Bonilla,Gil,H,69,,,TrabajadorXDias,5,160,150,,
+904,angel,Fernandez,Atienza,H,67,,,TrabajadorXContrato,,,450,4500,5
+905,Ana Maria,Bernardo,Miras,M,69,,,TrabajadorXDias,9,200,100,,
+906,Maria Carmen,Cordero,Fernandez,M,44,,,TrabajadorXDias,9,180,500,,
+907,Josefa,Lago,Izquierdo,M,76,90,200,TrabajadorXHoras,,,,,
+908,Antonio,Marin,Santos,H,28,,,TrabajadorXContrato,,,250,4500,2
+909,Rafael,Marcos,Diaz,H,27,22,120,TrabajadorXHoras,,,,,
+910,Encarnacion,Sanchez,Moreno,M,85,26,120,TrabajadorXHoras,,,,,
+911,Manuela,Rivera,Rodriguez,M,35,,,TrabajadorXContrato,,,0,2000,2
+912,Beatriz,Lopez,Fernandez,M,39,54,140,TrabajadorXHoras,,,,,
+913,Maria Carmen,Rodriguez,Garcia,M,34,40,160,TrabajadorXHoras,,,,,
+914,Raquel,Lopez,Ramos,M,50,20,180,TrabajadorXHoras,,,,,
+915,Pablo,Sanchez,Hernandez,H,76,94,130,TrabajadorXHoras,,,,,
+916,Joaquin,Marti,Martinez,H,78,,,TrabajadorXDias,3,40,50,,
+917,David,Munoz,Fernandez,H,73,,,TrabajadorXDias,11,60,300,,
+918,Manuel,Rosa,Cortes,H,65,100,160,TrabajadorXHoras,,,,,
+919,Jose,Romo,Chacon,H,65,,,TrabajadorXDias,5,160,0,,
+920,Marta,Duarte,Sales,M,60,64,160,TrabajadorXHoras,,,,,
+921,Andres,Ruiz,Parrilla,H,44,80,180,TrabajadorXHoras,,,,,
+922,Laura,alvarez,Fernandez,M,53,,,TrabajadorXContrato,,,150,2000,4
+923,Cristina,Moreno,Vazquez,M,78,48,170,TrabajadorXHoras,,,,,
+924,Dolores,Garcia,Duran,M,18,,,TrabajadorXContrato,,,100,1000,5
+925,Jose Luis,Vicente,Collado,H,84,38,120,TrabajadorXHoras,,,,,
+926,Juan Manuel,Lago,Sanchez,H,64,,,TrabajadorXContrato,,,400,1000,1
+927,Ignacio,Martinez,Garcia,H,45,,,TrabajadorXDias,4,140,350,,
+928,Concepcion,Valdes,Collado,M,79,,,TrabajadorXDias,2,40,200,,
+929,Antonio,Orellana,Tomas,H,34,,,TrabajadorXContrato,,,0,4500,3
+930,Beatriz,Rodriguez,Cabrera,M,48,,,TrabajadorXDias,7,60,450,,
+931,Juan,Rodriguez,Ordonez,H,65,16,200,TrabajadorXHoras,,,,,
+932,Daniel,Figueras,Lopez,H,36,,,TrabajadorXDias,4,100,400,,
+933,Antonio,Verdu,Huang,H,47,,,TrabajadorXDias,3,180,350,,
+934,Antonio,Quintela,Martin,H,50,,,TrabajadorXDias,12,120,150,,
+935,David,Llorens,Campos,H,78,28,100,TrabajadorXHoras,,,,,
+936,Maria Carmen,Gomez,Martinez,M,54,,,TrabajadorXDias,14,140,200,,
+937,Dolores,Vivancos,Serra,M,31,18,190,TrabajadorXHoras,,,,,
+938,Maria,Santos,Fernandez,M,70,38,150,TrabajadorXHoras,,,,,
+939,Juan Carlos,Seijas,Sanchez,H,35,92,200,TrabajadorXHoras,,,,,
+940,Javier,Ruz,Sanchez,H,39,,,TrabajadorXDias,12,60,50,,
+941,Pilar,Ramirez,Gallego,M,31,,,TrabajadorXDias,11,120,100,,
+942,Maria Josefa,Gomez,Perez,M,48,,,TrabajadorXContrato,,,350,1000,1
+943,Ana Maria,Gonzalez,Millan,M,39,12,180,TrabajadorXHoras,,,,,
+944,Alberto,Galarza,Cordoba,H,71,,,TrabajadorXContrato,,,350,2000,0
+945,Ramon,Ripoll,Fernandez,H,77,42,140,TrabajadorXHoras,,,,,
+946,David,Dorado,Delgado,H,66,,,TrabajadorXContrato,,,250,1000,5
+947,Jose,Gonzalez,Padron,H,50,92,160,TrabajadorXHoras,,,,,
+948,Maria,Chico,Gomez,M,21,,,TrabajadorXContrato,,,50,1000,5
+949,Yolanda,Llobet,Abril,M,56,98,160,TrabajadorXHoras,,,,,
+950,Silvia,Perez,Sanchez,M,79,,,TrabajadorXDias,7,60,350,,
+951,Maria Carmen,Gutierrez,Vega,M,64,,,TrabajadorXDias,12,200,150,,
+952,Jose Maria,Espinosa,Onate,H,29,,,TrabajadorXContrato,,,150,4500,2
+953,Sergio,Martinez,Lopez,H,82,,,TrabajadorXContrato,,,0,3500,1
+954,Jon,Saez,Sanjurjo,H,27,,,TrabajadorXDias,13,100,450,,
+955,Laura,Sastre,Cardona,M,73,,,TrabajadorXContrato,,,50,2000,5
+956,angela,Aparicio,Mur,M,42,,,TrabajadorXContrato,,,350,1500,4
+957,Mercedes,alvarez,Cordon,M,20,,,TrabajadorXContrato,,,0,2500,2
+958,Manuela,Fernandez,Morales,M,29,,,TrabajadorXDias,14,60,50,,
+959,Francisco Jose,Infante,Serna,H,47,,,TrabajadorXContrato,,,300,3000,0
+960,Maria,Fernandez,Lopez,M,73,,,TrabajadorXDias,1,200,300,,
+961,Concepcion,Mendez,Latorre,M,68,,,TrabajadorXDias,4,140,450,,
+962,Josefa,Cano,Alcaraz,M,40,,,TrabajadorXDias,11,100,200,,
+963,oscar,Diaz,Martin,H,43,58,200,TrabajadorXHoras,,,,,
+964,Juan,Duarte,Munoz,H,78,,,TrabajadorXDias,1,200,150,,
+965,Maria angeles,Alegre,Garcia,M,47,,,TrabajadorXDias,14,80,0,,
+966,Antonia,Valdivia,Navarro,M,63,,,TrabajadorXDias,5,120,350,,
+967,Maria,Esteban,Romero,M,28,94,120,TrabajadorXHoras,,,,,
+968,Estibaliz,Fernandez,Mas,M,70,,,TrabajadorXDias,12,160,100,,
+969,Miguel,Martinez,Pena,H,58,82,180,TrabajadorXHoras,,,,,
+970,Francisco Javier,Carreno,Garcia,H,21,,,TrabajadorXContrato,,,100,3500,3
+971,Veronica,Diaz,Monge,M,36,28,180,TrabajadorXHoras,,,,,
+972,Javier,Hernandez,Aragones,H,78,,,TrabajadorXContrato,,,300,1000,5
+973,Juan Antonio,Ramon,Amigo,H,20,,,TrabajadorXDias,6,60,450,,
+974,Pedro,Lopez,Cano,H,81,,,TrabajadorXContrato,,,450,2500,5
+975,Jose Manuel,Gonzalez,De la Torre,H,35,54,180,TrabajadorXHoras,,,,,
+976,Maria Dolores,Blas,Escribano,M,20,,,TrabajadorXContrato,,,500,2000,0
+977,Dolores,Perez,Martinez,M,51,94,110,TrabajadorXHoras,,,,,
+978,Jesus,De la Fuente,Sanchez,H,44,,,TrabajadorXDias,4,180,300,,
+979,angel,Dominguez,Perez,H,49,,,TrabajadorXContrato,,,100,4500,4
+980,Jose,Martinez,Esteban,H,48,,,TrabajadorXContrato,,,500,2000,4
+981,Maria Jose,Vega,Segovia,M,83,50,100,TrabajadorXHoras,,,,,
+982,Alberto,Gomez,Beltran,H,47,,,TrabajadorXContrato,,,0,2500,4
+983,Jesus,Mugica,Acevedo,H,26,60,180,TrabajadorXHoras,,,,,
+984,Teresa,Fernandez,Torrente,M,57,88,190,TrabajadorXHoras,,,,,
+985,Manuela,Cano,Carballo,M,63,12,180,TrabajadorXHoras,,,,,
+986,Manuel,Alvarado,Requena,H,68,,,TrabajadorXContrato,,,500,1500,2
+987,Manuel,Leiva,Torres,H,65,,,TrabajadorXContrato,,,450,4500,0
+988,Jose Maria,Torres,Moya,H,51,,,TrabajadorXDias,12,140,300,,
+989,Maria Teresa,Cabrera,Exposito,M,51,,,TrabajadorXDias,5,100,500,,
+990,Rosa,Soto,Ramirez,M,64,,,TrabajadorXDias,15,100,100,,
+991,Maria,Lorenzo,Carmona,M,18,,,TrabajadorXContrato,,,500,1000,1
+992,Antonio,Rico,Mesa,H,35,,,TrabajadorXDias,9,180,250,,
+993,Mohamed,Romero,Espinoza,H,77,18,180,TrabajadorXHoras,,,,,
+994,Raul,Molina,Ruiz,H,18,,,TrabajadorXDias,3,100,200,,
+995,Alberto,Enriquez,Hernandez,H,78,60,180,TrabajadorXHoras,,,,,
+996,Raul,Fernandez,Gadea,H,68,,,TrabajadorXContrato,,,350,1000,3
+997,David,Torres,Pacheco,H,36,8,110,TrabajadorXHoras,,,,,
+998,Nerea,Villanueva,Gomez,M,51,,,TrabajadorXDias,3,140,400,,
+999,Maria angeles,Hernandez,Crespo,M,60,,,TrabajadorXDias,11,60,0,,
+1000,Pablo,Lopez,Cantero,H,22,,,TrabajadorXContrato,,,0,4000,2

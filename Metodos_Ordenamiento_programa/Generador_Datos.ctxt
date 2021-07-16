@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Generador_Datos()
+comment1.params=numeroDatos
+comment1.target=void\ generarDatos(int)
+comment2.params=numeroDatos
+comment2.target=Alumno[]\ obtenerDatos(int)
+comment3.params=numeroDatos
+comment3.target=Alumno[]\ obtenerDatosBusqueda(int)
+numComments=4

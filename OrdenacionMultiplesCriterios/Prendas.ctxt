@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=prenda\ temporada\ colorPrenda\ id
+comment0.target=Prendas(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=prenda
+comment1.target=void\ setPrenda(java.lang.String)
+comment2.params=temporada
+comment2.target=void\ setTemporada(java.lang.String)
+comment3.params=colorPrenda
+comment3.target=void\ setColorPrenda(java.lang.String)
+comment4.params=id
+comment4.target=void\ setId(int)
+comment5.params=
+comment5.target=java.lang.String\ getPrenda()
+comment6.params=
+comment6.target=java.lang.String\ getTemporada()
+comment7.params=
+comment7.target=java.lang.String\ getColorPrenda()
+comment8.params=
+comment8.target=int\ getId()
+numComments=9

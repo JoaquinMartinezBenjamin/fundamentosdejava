@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=codigo\ nombre\ apellido_pat\ apellido_mat\ genero\ edad\ sueldoXhora\ horasTrabajadas
+comment0.target=TrabajadorXhora(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment1.params=sueldoXhora
+comment1.target=void\ setSueldoXhora(double)
+comment2.params=horasTrabajadas
+comment2.target=void\ setHorasTrabajadas(int)
+comment3.params=
+comment3.target=double\ getSueldoXhora()
+comment4.params=
+comment4.target=int\ getHorasTrabajadas()
+comment5.params=
+comment5.target=void\ calcularSueldo()
+numComments=6

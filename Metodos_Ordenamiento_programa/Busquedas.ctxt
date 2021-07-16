@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Busquedas()
+comment1.params=numeroDatos\ nombre
+comment1.target=void\ busquedaL(int,\ java.lang.String)
+comment2.params=numeroDatos\ apellido
+comment2.target=void\ busquedaL_apellido(int,\ java.lang.String)
+comment3.params=arreglo\ numeroDatos\ nombre
+comment3.target=void\ busquedaLineal(Alumno[],\ int,\ java.lang.String)
+comment4.params=arreglo\ numeroDatos\ apellido
+comment4.target=void\ busquedaLinealApellido(Alumno[],\ int,\ java.lang.String)
+comment5.params=numeroDatos\ nombre
+comment5.target=void\ busquedaBinariaNombre(int,\ java.lang.String)
+comment6.params=arreglo\ nombre
+comment6.target=void\ busquedaBinaria(Alumno[],\ java.lang.String)
+comment7.params=numeroDatos\ apellido
+comment7.target=void\ busquedaBinariaApellido(int,\ java.lang.String)
+comment8.params=arreglo\ apellido
+comment8.target=void\ busquedaBinariaApellido(Alumno[],\ java.lang.String)
+numComments=9
